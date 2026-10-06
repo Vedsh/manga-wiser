@@ -38,7 +38,7 @@ header {
 .header-container {
     width: 100%;
     max-width: 1500px;
-    min-height: 74px;
+    min-height: 70px;
     margin: 0 auto;
     padding: 0 28px;
 
@@ -100,7 +100,7 @@ header {
 nav {
     display: flex;
     align-items: center;
-    gap: 30px;
+    gap: 26px;
 
     margin-left: 42px;
 }
