@@ -85,6 +85,14 @@ header {
     white-space: nowrap;
 }
 
+ .logo-main {
+    color: #ffffff;
+}
+
+.logo-accent {
+    color: #a855f7;
+}
+
 /* =========================
    NAVIGATION
    ========================= */
