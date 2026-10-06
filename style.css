@@ -1,0 +1,149 @@
+/* =========================
+   Manga Wiser - Global Styles
+   ========================= */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background: #0f0f14;
+    color: #ffffff;
+}
+
+button,
+a {
+    font-family: inherit;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+/* =========================
+   Header
+   ========================= */
+
+header {
+    width: 100%;
+    background: #15151d;
+    border-bottom: 1px solid #282832;
+}
+
+.header-container {
+    width: 100%;
+    max-width: 1400px;
+    margin: 0 auto;
+    min-height: 72px;
+
+    display: flex;
+    align-items: center;
+    gap: 28px;
+    padding: 0 24px;
+}
+
+/* Menu */
+
+.menu-button {
+    background: transparent;
+    border: none;
+    color: #ffffff;
+    font-size: 15px;
+    cursor: pointer;
+
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+/* Logo */
+
+.logo {
+    font-size: 24px;
+    font-weight: 700;
+    white-space: nowrap;
+}
+
+/* Navigation */
+
+nav {
+    display: flex;
+    align-items: center;
+    gap: 24px;
+    margin-left: 10px;
+}
+
+nav a {
+    font-size: 15px;
+    color: #d8d8df;
+    transition: 0.2s ease;
+}
+
+nav a:hover {
+    color: #ffffff;
+}
+
+/* Search */
+
+.search-button {
+    margin-left: auto;
+
+    width: 40px;
+    height: 40px;
+
+    border: none;
+    border-radius: 50%;
+
+    background: transparent;
+    color: #ffffff;
+
+    font-size: 17px;
+    cursor: pointer;
+}
+
+/* =========================
+   Main
+   ========================= */
+
+main {
+    min-height: 80vh;
+}
+
+/* =========================
+   Footer
+   ========================= */
+
+footer {
+    min-height: 100px;
+    border-top: 1px solid #282832;
+}
+
+/* =========================
+   Mobile
+   ========================= */
+
+@media (max-width: 768px) {
+
+    .header-container {
+        min-height: 64px;
+        padding: 0 16px;
+        gap: 16px;
+    }
+
+    .logo {
+        font-size: 20px;
+    }
+
+    nav {
+        display: none;
+    }
+
+    .menu-button span {
+        display: none;
+    }
+
+}
