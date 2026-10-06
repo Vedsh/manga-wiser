@@ -1,5 +1,6 @@
 /* =========================
-   Manga Wiser - Global Styles
+   Manga Wiser
+   Global Styles
    ========================= */
 
 * {
@@ -10,7 +11,7 @@
 
 body {
     font-family: Arial, sans-serif;
-    background: #0f0f14;
+    background: #0f1015;
     color: #ffffff;
 }
 
@@ -25,88 +26,147 @@ a {
 }
 
 /* =========================
-   Header
+   HEADER
    ========================= */
 
 header {
     width: 100%;
-    background: #15151d;
-    border-bottom: 1px solid #282832;
+    background: #15161d;
+    border-bottom: 1px solid #292b35;
 }
 
 .header-container {
     width: 100%;
-    max-width: 1400px;
+    max-width: 1500px;
+    min-height: 74px;
     margin: 0 auto;
-    min-height: 72px;
+    padding: 0 28px;
 
     display: flex;
     align-items: center;
-    gap: 28px;
-    padding: 0 24px;
 }
 
-/* Menu */
+/* =========================
+   MENU
+   ========================= */
 
 .menu-button {
-    background: transparent;
-    border: none;
-    color: #ffffff;
-    font-size: 15px;
-    cursor: pointer;
-
     display: flex;
     align-items: center;
-    gap: 8px;
+    gap: 9px;
+
+    background: transparent;
+    border: none;
+
+    color: #ffffff;
+    font-size: 15px;
+    font-weight: 500;
+
+    cursor: pointer;
+    padding: 10px 4px;
 }
 
-/* Logo */
+.menu-icon {
+    font-size: 20px;
+    line-height: 1;
+}
+
+/* =========================
+   LOGO
+   ========================= */
 
 .logo {
-    font-size: 24px;
+    margin-left: 30px;
+
+    font-size: 25px;
     font-weight: 700;
+    letter-spacing: -0.5px;
+
     white-space: nowrap;
 }
 
-/* Navigation */
+/* =========================
+   NAVIGATION
+   ========================= */
 
 nav {
     display: flex;
     align-items: center;
-    gap: 24px;
-    margin-left: 10px;
+    gap: 30px;
+
+    margin-left: 42px;
 }
 
 nav a {
+    position: relative;
+
+    color: #cfd0d7;
     font-size: 15px;
-    color: #d8d8df;
-    transition: 0.2s ease;
+    font-weight: 500;
+
+    padding: 27px 0;
+
+    transition: color 0.2s ease;
 }
 
 nav a:hover {
     color: #ffffff;
 }
 
-/* Search */
+/* Active Home */
+
+nav a.active {
+    color: #ffffff;
+}
+
+nav a.active::after {
+    content: "";
+
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 17px;
+
+    height: 2px;
+    border-radius: 2px;
+
+    background: #ffffff;
+}
+
+/* =========================
+   SEARCH
+   ========================= */
 
 .search-button {
     margin-left: auto;
 
-    width: 40px;
-    height: 40px;
+    width: 42px;
+    height: 42px;
 
-    border: none;
-    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 
     background: transparent;
-    color: #ffffff;
+    border: 1px solid #343641;
+    border-radius: 50%;
 
+    color: #ffffff;
     font-size: 17px;
+
     cursor: pointer;
+
+    transition: background 0.2s ease,
+                border-color 0.2s ease;
+}
+
+.search-button:hover {
+    background: #20212a;
+    border-color: #464852;
 }
 
 /* =========================
-   Main
+   MAIN
    ========================= */
 
 main {
@@ -114,16 +174,16 @@ main {
 }
 
 /* =========================
-   Footer
+   FOOTER
    ========================= */
 
 footer {
     min-height: 100px;
-    border-top: 1px solid #282832;
+    border-top: 1px solid #292b35;
 }
 
 /* =========================
-   Mobile
+   MOBILE
    ========================= */
 
 @media (max-width: 768px) {
@@ -131,19 +191,28 @@ footer {
     .header-container {
         min-height: 64px;
         padding: 0 16px;
-        gap: 16px;
+    }
+
+    .menu-button {
+        font-size: 0;
+    }
+
+    .menu-icon {
+        font-size: 21px;
     }
 
     .logo {
-        font-size: 20px;
+        margin-left: 18px;
+        font-size: 21px;
     }
 
     nav {
         display: none;
     }
 
-    .menu-button span {
-        display: none;
+    .search-button {
+        width: 38px;
+        height: 38px;
+        margin-left: auto;
     }
-
 }
