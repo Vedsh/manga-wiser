@@ -673,11 +673,16 @@
          SLIDER JAVASCRIPT
     ========================== -->
 
-    <script>
+<script>
 
-        const slider = document.querySelector(".release-slider");
-        const nextButton = document.querySelector(".slider-next");
-        const prevButton = document.querySelector(".slider-prev");
+    const sliders = document.querySelectorAll(".release-slider-wrapper");
+
+    sliders.forEach(function (wrapper) {
+
+        const slider = wrapper.querySelector(".release-slider");
+        const nextButton = wrapper.querySelector(".slider-next");
+        const prevButton = wrapper.querySelector(".slider-prev");
+
 
         nextButton.addEventListener("click", function () {
 
@@ -698,7 +703,9 @@
 
         });
 
-    </script>
+    });
+
+</script>
 
 </body>
 
