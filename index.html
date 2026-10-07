@@ -2106,17 +2106,28 @@
         </h2>
 
         <div class="trending-tabs">
-            <button class="trending-tab active" type="button">
+
+            <button
+                class="trending-tab active"
+                type="button"
+                data-trending="today">
                 Today
             </button>
 
-            <button class="trending-tab" type="button">
+            <button
+                class="trending-tab"
+                type="button"
+                data-trending="week">
                 This Week
             </button>
 
-            <button class="trending-tab" type="button">
+            <button
+                class="trending-tab"
+                type="button"
+                data-trending="month">
                 This Month
             </button>
+
         </div>
 
     </div>
@@ -2124,146 +2135,365 @@
 
     <!-- TRENDING TODAY -->
 
-    <div class="release-slider-wrapper">
+    <div
+        class="trending-content"
+        data-content="today">
 
-        <button
-            class="slider-arrow slider-prev"
-            type="button"
-            aria-label="Previous trending">
-            ‹
-        </button>
+        <div class="release-slider-wrapper">
 
+            <button
+                class="slider-arrow slider-prev"
+                type="button"
+                aria-label="Previous trending">
+                ‹
+            </button>
 
-        <div class="release-slider">
+            <div class="release-slider">
 
-            <!-- 1 -->
-            <article class="release-card">
-                <div class="release-image"></div>
+                <article class="release-card">
+                    <div class="release-image"></div>
+                    <div class="release-info">
+                        <span class="release-type">Manga</span>
+                        <h3>Trending Manga Title</h3>
+                        <p>Chapter 125</p>
+                    </div>
+                </article>
 
-                <div class="release-info">
-                    <span class="release-type">Manga</span>
-                    <h3>Trending Manga Title</h3>
-                    <p>Chapter 125</p>
-                </div>
-            </article>
+                <article class="release-card">
+                    <div class="release-image"></div>
+                    <div class="release-info">
+                        <span class="release-type">Manhwa</span>
+                        <h3>Trending Manhwa Title</h3>
+                        <p>Chapter 89</p>
+                    </div>
+                </article>
 
+                <article class="release-card">
+                    <div class="release-image"></div>
+                    <div class="release-info">
+                        <span class="release-type">Manhua</span>
+                        <h3>Trending Manhua Title</h3>
+                        <p>Chapter 56</p>
+                    </div>
+                </article>
 
-            <!-- 2 -->
-            <article class="release-card">
-                <div class="release-image"></div>
+                <article class="release-card">
+                    <div class="release-image"></div>
+                    <div class="release-info">
+                        <span class="release-type">Manga</span>
+                        <h3>Popular Manga Title</h3>
+                        <p>Chapter 78</p>
+                    </div>
+                </article>
 
-                <div class="release-info">
-                    <span class="release-type">Manhwa</span>
-                    <h3>Trending Manhwa Title</h3>
-                    <p>Chapter 89</p>
-                </div>
-            </article>
+                <article class="release-card">
+                    <div class="release-image"></div>
+                    <div class="release-info">
+                        <span class="release-type">Manhwa</span>
+                        <h3>Popular Manhwa Title</h3>
+                        <p>Chapter 61</p>
+                    </div>
+                </article>
 
+                <article class="release-card">
+                    <div class="release-image"></div>
+                    <div class="release-info">
+                        <span class="release-type">Manhua</span>
+                        <h3>Popular Manhua Title</h3>
+                        <p>Chapter 44</p>
+                    </div>
+                </article>
 
-            <!-- 3 -->
-            <article class="release-card">
-                <div class="release-image"></div>
+                <article class="release-card">
+                    <div class="release-image"></div>
+                    <div class="release-info">
+                        <span class="release-type">Web Novel</span>
+                        <h3>Trending Web Novel</h3>
+                        <p>Chapter 37</p>
+                    </div>
+                </article>
 
-                <div class="release-info">
-                    <span class="release-type">Manhua</span>
-                    <h3>Trending Manhua Title</h3>
-                    <p>Chapter 56</p>
-                </div>
-            </article>
+                <article class="release-card">
+                    <div class="release-image"></div>
+                    <div class="release-info">
+                        <span class="release-type">Manga</span>
+                        <h3>Hot Manga Title</h3>
+                        <p>Chapter 29</p>
+                    </div>
+                </article>
 
+                <article class="release-card">
+                    <div class="release-image"></div>
+                    <div class="release-info">
+                        <span class="release-type">Manhwa</span>
+                        <h3>Hot Manhwa Title</h3>
+                        <p>Chapter 21</p>
+                    </div>
+                </article>
 
-            <!-- 4 -->
-            <article class="release-card">
-                <div class="release-image"></div>
+                <article class="release-card">
+                    <div class="release-image"></div>
+                    <div class="release-info">
+                        <span class="release-type">One-shot</span>
+                        <h3>Trending One-shot</h3>
+                        <p>New Release</p>
+                    </div>
+                </article>
 
-                <div class="release-info">
-                    <span class="release-type">Manga</span>
-                    <h3>Popular Manga Title</h3>
-                    <p>Chapter 78</p>
-                </div>
-            </article>
+            </div>
 
-
-            <!-- 5 -->
-            <article class="release-card">
-                <div class="release-image"></div>
-
-                <div class="release-info">
-                    <span class="release-type">Manhwa</span>
-                    <h3>Popular Manhwa Title</h3>
-                    <p>Chapter 61</p>
-                </div>
-            </article>
-
-
-            <!-- 6 -->
-            <article class="release-card">
-                <div class="release-image"></div>
-
-                <div class="release-info">
-                    <span class="release-type">Manhua</span>
-                    <h3>Popular Manhua Title</h3>
-                    <p>Chapter 44</p>
-                </div>
-            </article>
-
-
-            <!-- 7 -->
-            <article class="release-card">
-                <div class="release-image"></div>
-
-                <div class="release-info">
-                    <span class="release-type">Web Novel</span>
-                    <h3>Trending Web Novel</h3>
-                    <p>Chapter 37</p>
-                </div>
-            </article>
-
-
-            <!-- 8 -->
-            <article class="release-card">
-                <div class="release-image"></div>
-
-                <div class="release-info">
-                    <span class="release-type">Manga</span>
-                    <h3>Hot Manga Title</h3>
-                    <p>Chapter 29</p>
-                </div>
-            </article>
-
-
-            <!-- 9 -->
-            <article class="release-card">
-                <div class="release-image"></div>
-
-                <div class="release-info">
-                    <span class="release-type">Manhwa</span>
-                    <h3>Hot Manhwa Title</h3>
-                    <p>Chapter 21</p>
-                </div>
-            </article>
-
-
-            <!-- 10 -->
-            <article class="release-card">
-                <div class="release-image"></div>
-
-                <div class="release-info">
-                    <span class="release-type">One-shot</span>
-                    <h3>Trending One-shot</h3>
-                    <p>New Release</p>
-                </div>
-            </article>
+            <button
+                class="slider-arrow slider-next"
+                type="button"
+                aria-label="Next trending">
+                ›
+            </button>
 
         </div>
 
+    </div>
 
-        <button
-            class="slider-arrow slider-next"
-            type="button"
-            aria-label="Next trending">
-            ›
-        </button>
+
+    <!-- TRENDING THIS WEEK -->
+
+    <div
+        class="trending-content"
+        data-content="week"
+        style="display: none;">
+
+        <div class="release-slider-wrapper">
+
+            <button
+                class="slider-arrow slider-prev"
+                type="button"
+                aria-label="Previous weekly trending">
+                ‹
+            </button>
+
+            <div class="release-slider">
+
+                <article class="release-card">
+                    <div class="release-image"></div>
+                    <div class="release-info">
+                        <span class="release-type">Manga</span>
+                        <h3>Weekly Manga Title</h3>
+                        <p>Chapter 132</p>
+                    </div>
+                </article>
+
+                <article class="release-card">
+                    <div class="release-image"></div>
+                    <div class="release-info">
+                        <span class="release-type">Manhwa</span>
+                        <h3>Weekly Manhwa Title</h3>
+                        <p>Chapter 104</p>
+                    </div>
+                </article>
+
+                <article class="release-card">
+                    <div class="release-image"></div>
+                    <div class="release-info">
+                        <span class="release-type">Manhua</span>
+                        <h3>Weekly Manhua Title</h3>
+                        <p>Chapter 87</p>
+                    </div>
+                </article>
+
+                <article class="release-card">
+                    <div class="release-image"></div>
+                    <div class="release-info">
+                        <span class="release-type">Manga</span>
+                        <h3>Popular Manga</h3>
+                        <p>Chapter 76</p>
+                    </div>
+                </article>
+
+                <article class="release-card">
+                    <div class="release-image"></div>
+                    <div class="release-info">
+                        <span class="release-type">Manhwa</span>
+                        <h3>Popular Manhwa</h3>
+                        <p>Chapter 68</p>
+                    </div>
+                </article>
+
+                <article class="release-card">
+                    <div class="release-image"></div>
+                    <div class="release-info">
+                        <span class="release-type">Manhua</span>
+                        <h3>Popular Manhua</h3>
+                        <p>Chapter 59</p>
+                    </div>
+                </article>
+
+                <article class="release-card">
+                    <div class="release-image"></div>
+                    <div class="release-info">
+                        <span class="release-type">Web Novel</span>
+                        <h3>Weekly Web Novel</h3>
+                        <p>Chapter 48</p>
+                    </div>
+                </article>
+
+                <article class="release-card">
+                    <div class="release-image"></div>
+                    <div class="release-info">
+                        <span class="release-type">Manga</span>
+                        <h3>Rising Manga Title</h3>
+                        <p>Chapter 43</p>
+                    </div>
+                </article>
+
+                <article class="release-card">
+                    <div class="release-image"></div>
+                    <div class="release-info">
+                        <span class="release-type">Manhwa</span>
+                        <h3>Rising Manhwa Title</h3>
+                        <p>Chapter 39</p>
+                    </div>
+                </article>
+
+                <article class="release-card">
+                    <div class="release-image"></div>
+                    <div class="release-info">
+                        <span class="release-type">One-shot</span>
+                        <h3>Weekly One-shot</h3>
+                        <p>New Release</p>
+                    </div>
+                </article>
+
+            </div>
+
+            <button
+                class="slider-arrow slider-next"
+                type="button"
+                aria-label="Next weekly trending">
+                ›
+            </button>
+
+        </div>
+
+    </div>
+
+
+    <!-- TRENDING THIS MONTH -->
+
+    <div
+        class="trending-content"
+        data-content="month"
+        style="display: none;">
+
+        <div class="release-slider-wrapper">
+
+            <button
+                class="slider-arrow slider-prev"
+                type="button"
+                aria-label="Previous monthly trending">
+                ‹
+            </button>
+
+            <div class="release-slider">
+
+                <article class="release-card">
+                    <div class="release-image"></div>
+                    <div class="release-info">
+                        <span class="release-type">Manga</span>
+                        <h3>Monthly Manga Title</h3>
+                        <p>Chapter 145</p>
+                    </div>
+                </article>
+
+                <article class="release-card">
+                    <div class="release-image"></div>
+                    <div class="release-info">
+                        <span class="release-type">Manhwa</span>
+                        <h3>Monthly Manhwa Title</h3>
+                        <p>Chapter 121</p>
+                    </div>
+                </article>
+
+                <article class="release-card">
+                    <div class="release-image"></div>
+                    <div class="release-info">
+                        <span class="release-type">Manhua</span>
+                        <h3>Monthly Manhua Title</h3>
+                        <p>Chapter 98</p>
+                    </div>
+                </article>
+
+                <article class="release-card">
+                    <div class="release-image"></div>
+                    <div class="release-info">
+                        <span class="release-type">Manga</span>
+                        <h3>Top Manga Title</h3>
+                        <p>Chapter 91</p>
+                    </div>
+                </article>
+
+                <article class="release-card">
+                    <div class="release-image"></div>
+                    <div class="release-info">
+                        <span class="release-type">Manhwa</span>
+                        <h3>Top Manhwa Title</h3>
+                        <p>Chapter 83</p>
+                    </div>
+                </article>
+
+                <article class="release-card">
+                    <div class="release-image"></div>
+                    <div class="release-info">
+                        <span class="release-type">Manhua</span>
+                        <h3>Top Manhua Title</h3>
+                        <p>Chapter 75</p>
+                    </div>
+                </article>
+
+                <article class="release-card">
+                    <div class="release-image"></div>
+                    <div class="release-info">
+                        <span class="release-type">Web Novel</span>
+                        <h3>Top Web Novel</h3>
+                        <p>Chapter 66</p>
+                    </div>
+                </article>
+
+                <article class="release-card">
+                    <div class="release-image"></div>
+                    <div class="release-info">
+                        <span class="release-type">Manga</span>
+                        <h3>Monthly Popular Manga</h3>
+                        <p>Chapter 58</p>
+                    </div>
+                </article>
+
+                <article class="release-card">
+                    <div class="release-image"></div>
+                    <div class="release-info">
+                        <span class="release-type">Manhwa</span>
+                        <h3>Monthly Popular Manhwa</h3>
+                        <p>Chapter 47</p>
+                    </div>
+                </article>
+
+                <article class="release-card">
+                    <div class="release-image"></div>
+                    <div class="release-info">
+                        <span class="release-type">One-shot</span>
+                        <h3>Monthly One-shot</h3>
+                        <p>New Release</p>
+                    </div>
+                </article>
+
+            </div>
+
+            <button
+                class="slider-arrow slider-next"
+                type="button"
+                aria-label="Next monthly trending">
+                ›
+            </button>
+
+        </div>
 
     </div>
 
@@ -2285,6 +2515,9 @@
     ========================== -->
 
 <script>
+    /* =========================
+       ALL SLIDERS
+    ========================== */
 
     const sliders = document.querySelectorAll(".release-slider-wrapper");
 
@@ -2294,28 +2527,61 @@
         const nextButton = wrapper.querySelector(".slider-next");
         const prevButton = wrapper.querySelector(".slider-prev");
 
-
         nextButton.addEventListener("click", function () {
-
             slider.scrollBy({
                 left: slider.clientWidth,
                 behavior: "smooth"
             });
-
         });
 
-
         prevButton.addEventListener("click", function () {
-
             slider.scrollBy({
                 left: -slider.clientWidth,
                 behavior: "smooth"
+            });
+        });
+
+    });
+
+
+    /* =========================
+       TRENDING TABS
+    ========================== */
+
+    const trendingTabs = document.querySelectorAll(".trending-tab");
+    const trendingContents = document.querySelectorAll(".trending-content");
+
+    trendingTabs.forEach(function (tab) {
+
+        tab.addEventListener("click", function () {
+
+            const selectedTrending = tab.dataset.trending;
+
+
+            /* Active tab */
+
+            trendingTabs.forEach(function (item) {
+                item.classList.remove("active");
+            });
+
+            tab.classList.add("active");
+
+
+            /* Show selected content */
+
+            trendingContents.forEach(function (content) {
+
+                if (content.dataset.content === selectedTrending) {
+                    content.style.display = "block";
+                } else {
+                    content.style.display = "none";
+                }
+
             });
 
         });
 
     });
-
 </script>
 
 </body>
