@@ -424,3 +424,76 @@ footer {
         height: 200px;
     }
 }
+
+ /* =========================
+   LATEST RELEASES SLIDER
+   ========================= */
+
+.release-slider {
+    display: flex;
+    gap: 18px;
+
+    overflow-x: auto;
+    overflow-y: hidden;
+
+    scroll-behavior: smooth;
+
+    padding-bottom: 8px;
+
+    scrollbar-width: none;
+}
+
+.release-slider::-webkit-scrollbar {
+    display: none;
+}
+
+.release-card {
+    flex: 0 0 calc((100% - 90px) / 6);
+
+    overflow: hidden;
+
+    background: #17181f;
+    border: 1px solid #292b35;
+    border-radius: 8px;
+
+    transition: transform 0.2s ease,
+                border-color 0.2s ease;
+}
+
+.release-card:hover {
+    transform: translateY(-4px);
+    border-color: #3b3d49;
+}
+
+.release-image {
+    width: 100%;
+    aspect-ratio: 2 / 3;
+
+    background: #22242d;
+}
+
+.release-info {
+    padding: 12px;
+}
+
+.release-type {
+    color: #a855f7;
+    font-size: 11px;
+    font-weight: 700;
+
+    text-transform: uppercase;
+}
+
+.release-info h3 {
+    margin-top: 6px;
+    margin-bottom: 5px;
+
+    color: #ffffff;
+    font-size: 14px;
+    line-height: 1.3;
+}
+
+.release-info p {
+    color: #9b9da8;
+    font-size: 12px;
+}
