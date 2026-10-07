@@ -319,7 +319,6 @@ footer {
     .hero-content p {
         font-size: 15px;
     }
-}
  
 /* =========================
    CONTENT SECTIONS
@@ -496,4 +495,6 @@ footer {
 .release-info p {
     color: #9b9da8;
     font-size: 12px;
+}
+ 
 }
