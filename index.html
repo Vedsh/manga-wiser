@@ -2918,6 +2918,40 @@
 
     resetHeroAutoSlide();
 
+         /* =========================
+       MENU DRAWER
+    ========================== */
+
+    const menuButton = document.querySelector(".menu-button");
+    const menuDrawer = document.querySelector(".menu-drawer");
+    const menuClose = document.querySelector(".menu-close");
+    const menuOverlay = document.querySelector(".menu-overlay");
+
+
+    function openMenu() {
+        document.body.classList.add("menu-open");
+    }
+
+
+    function closeMenu() {
+        document.body.classList.remove("menu-open");
+    }
+
+
+    menuButton.addEventListener("click", function () {
+        openMenu();
+    });
+
+
+    menuClose.addEventListener("click", function () {
+        closeMenu();
+    });
+
+
+    menuOverlay.addEventListener("click", function () {
+        closeMenu();
+    });
+
 </script>
 
 </body>
