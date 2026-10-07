@@ -118,7 +118,6 @@
 
         </article>
 
-
         <!-- SLIDE 3 -->
         <article class="hero-slide">
 
@@ -145,7 +144,6 @@
 
         </article>
 
-
         <!-- SLIDE 4 -->
         <article class="hero-slide">
 
@@ -171,7 +169,6 @@
             </div>
 
         </article>
-
 
         <!-- SLIDE 5 -->
         <article class="hero-slide">
@@ -201,7 +198,6 @@
 
     </div>
 
-
     <!-- HERO CONTROLS -->
 
     <button
@@ -217,7 +213,6 @@
         aria-label="Next slide">
         ›
     </button>
-
 
     <!-- HERO DOTS -->
 
@@ -256,7 +251,6 @@
     </div>
 
 </section>
-
 
         <!-- =========================
              LATEST RELEASES
@@ -562,7 +556,6 @@
         </a>
 
     </div>
-
 
     <div class="release-slider-wrapper">
 
@@ -2690,7 +2683,7 @@
 
 <script>
     /* =========================
-       ALL SLIDERS
+       ALL CONTENT SLIDERS
     ========================== */
 
     const sliders = document.querySelectorAll(".release-slider-wrapper");
@@ -2731,17 +2724,11 @@
 
             const selectedTrending = tab.dataset.trending;
 
-
-            /* Active tab */
-
             trendingTabs.forEach(function (item) {
                 item.classList.remove("active");
             });
 
             tab.classList.add("active");
-
-
-            /* Show selected content */
 
             trendingContents.forEach(function (content) {
 
@@ -2756,6 +2743,113 @@
         });
 
     });
+
+
+    /* =========================
+       HERO SLIDER
+    ========================== */
+
+    const heroSlides = document.querySelectorAll(".hero-slide");
+    const heroDots = document.querySelectorAll(".hero-dot");
+    const heroPrev = document.querySelector(".hero-prev");
+    const heroNext = document.querySelector(".hero-next");
+
+    let currentHeroSlide = 0;
+    let heroAutoSlide;
+
+
+    /* SHOW SLIDE */
+
+    function showHeroSlide(index) {
+
+        if (index >= heroSlides.length) {
+            index = 0;
+        }
+
+        if (index < 0) {
+            index = heroSlides.length - 1;
+        }
+
+        heroSlides.forEach(function (slide) {
+            slide.classList.remove("active");
+        });
+
+        heroDots.forEach(function (dot) {
+            dot.classList.remove("active");
+        });
+
+        heroSlides[index].classList.add("active");
+        heroDots[index].classList.add("active");
+
+        currentHeroSlide = index;
+    }
+
+
+    /* NEXT */
+
+    function nextHeroSlide() {
+        showHeroSlide(currentHeroSlide + 1);
+    }
+
+
+    /* PREVIOUS */
+
+    function previousHeroSlide() {
+        showHeroSlide(currentHeroSlide - 1);
+    }
+
+
+    /* RESET AUTO SLIDE */
+
+    function resetHeroAutoSlide() {
+
+        clearInterval(heroAutoSlide);
+
+        heroAutoSlide = setInterval(function () {
+            nextHeroSlide();
+        }, 5000);
+
+    }
+
+
+    /* NEXT BUTTON */
+
+    heroNext.addEventListener("click", function () {
+
+        nextHeroSlide();
+        resetHeroAutoSlide();
+
+    });
+
+
+    /* PREVIOUS BUTTON */
+
+    heroPrev.addEventListener("click", function () {
+
+        previousHeroSlide();
+        resetHeroAutoSlide();
+
+    });
+
+
+    /* DOT BUTTONS */
+
+    heroDots.forEach(function (dot, index) {
+
+        dot.addEventListener("click", function () {
+
+            showHeroSlide(index);
+            resetHeroAutoSlide();
+
+        });
+
+    });
+
+
+    /* START AUTO SLIDE */
+
+    resetHeroAutoSlide();
+
 </script>
 
 </body>
