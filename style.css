@@ -192,17 +192,46 @@ main {
 
 
 /* =========================
-   HERO
+   HERO SLIDER
 ========================= */
 
 .hero-section {
+    position: relative;
+
     width: 100%;
     min-height: 430px;
+
+    overflow: hidden;
+
+    background: #0f1015;
+}
+
+
+/* SLIDES */
+
+.hero-slider {
+    position: relative;
+
+    width: 100%;
+    min-height: 430px;
+}
+
+.hero-slide {
+    position: absolute;
+
+    inset: 0;
 
     display: flex;
     align-items: center;
 
     padding: 60px 7%;
+
+    opacity: 0;
+    visibility: hidden;
+
+    transition:
+        opacity 0.5s ease,
+        visibility 0.5s ease;
 
     background:
         linear-gradient(
@@ -212,6 +241,14 @@ main {
             rgba(15, 16, 21, 0.55) 100%
         );
 }
+
+.hero-slide.active {
+    opacity: 1;
+    visibility: visible;
+}
+
+
+/* HERO CONTENT */
 
 .hero-content {
     max-width: 650px;
@@ -278,6 +315,95 @@ main {
     transform: translateY(-2px);
 }
 
+
+/* HERO ARROWS */
+
+.hero-arrow {
+    position: absolute;
+
+    top: 50%;
+
+    transform: translateY(-50%);
+
+    z-index: 10;
+
+    width: 42px;
+    height: 42px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    background: rgba(23, 24, 31, 0.85);
+
+    border: 1px solid #343641;
+    border-radius: 50%;
+
+    color: #ffffff;
+
+    font-size: 28px;
+    line-height: 1;
+
+    transition:
+        background 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.hero-arrow:hover {
+    background: #a855f7;
+    border-color: #a855f7;
+}
+
+.hero-prev {
+    left: 24px;
+}
+
+.hero-next {
+    right: 24px;
+}
+
+
+/* HERO DOTS */
+
+.hero-dots {
+    position: absolute;
+
+    left: 50%;
+    bottom: 22px;
+
+    transform: translateX(-50%);
+
+    z-index: 10;
+
+    display: flex;
+    align-items: center;
+
+    gap: 8px;
+}
+
+.hero-dot {
+    width: 8px;
+    height: 8px;
+
+    padding: 0;
+
+    background: #555762;
+
+    border: none;
+    border-radius: 50%;
+
+    transition:
+        width 0.2s ease,
+        background 0.2s ease;
+}
+
+.hero-dot.active {
+    width: 24px;
+
+    background: #a855f7;
+
+    border-radius: 10px;
+}
 
 /* =========================
    CONTENT SECTIONS
@@ -516,10 +642,17 @@ footer {
         height: 38px;
     }
 
-
-    /* HERO */
+        /* HERO */
 
     .hero-section {
+        min-height: 380px;
+    }
+
+    .hero-slider {
+        min-height: 380px;
+    }
+
+    .hero-slide {
         min-height: 380px;
 
         padding: 50px 20px;
@@ -535,6 +668,24 @@ footer {
         font-size: 15px;
     }
 
+    .hero-prev {
+        left: 10px;
+    }
+
+    .hero-next {
+        right: 10px;
+    }
+
+    .hero-arrow {
+        width: 34px;
+        height: 34px;
+
+        font-size: 24px;
+    }
+
+    .hero-dots {
+        bottom: 16px;
+    }
 
     /* CONTENT */
 
