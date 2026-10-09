@@ -42,11 +42,27 @@
                 <a href="#">Manhua</a>
             </nav>
 
-            <!-- Search -->
-            <button class="search-button" type="button">
-                🔍
-            </button>
+            <!-- Search -->       
+             
+<button class="search-button" type="button" aria-label="Open search">
+    🔍
+</button>
 
+             
+<div class="search-panel">
+    <form class="search-form">
+        <input
+            type="search"
+            id="site-search"
+            placeholder="Search manga, manhwa, manhua..."
+            autocomplete="off"
+            aria-label="Search Manga Wiser"
+        >
+        <button type="submit">Search</button>
+    </form>
+    <div id="search-results"></div>
+</div>
+             
         </div>
     </header>
 
