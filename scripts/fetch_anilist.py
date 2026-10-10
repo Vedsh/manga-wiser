@@ -1,3 +1,4 @@
+
 import json
 import time
 import urllib.request
@@ -8,15 +9,12 @@ API_URL = "https://graphql.anilist.co"
 OUTPUT_FILE = Path("data/anilist-catalog.json")
 
 QUERY = """
-query ($page: Int, $country: CountryCode) {
+query ($page: Int, $country: CountryCode, $format: MediaFormat) {
   Page(page: $page, perPage: 25) {
-    pageInfo {
-      currentPage
-      hasNextPage
-    }
     media(
       type: MANGA
       countryOfOrigin: $country
+      format: $format
       sort: POPULARITY_DESC
     ) {
       id
@@ -49,18 +47,29 @@ query ($page: Int, $country: CountryCode) {
 """
 
 CATEGORIES = {
-    "manga": "JP",
-    "manhwa": "KR",
-    "manhua": "CN",
+    "manga": [("JP", "MANGA")],
+    "manhwa": [("KR", "MANGA")],
+    "manhua": [("CN", "MANGA")],
+    "novel": [
+        ("JP", "NOVEL"),
+        ("KR", "NOVEL"),
+        ("CN", "NOVEL"),
+    ],
+    "oneshot": [
+        ("JP", "ONE_SHOT"),
+        ("KR", "ONE_SHOT"),
+        ("CN", "ONE_SHOT"),
+    ],
 }
 
 
-def fetch_page(country_code):
+def fetch_page(country_code, media_format):
     payload = {
         "query": QUERY,
         "variables": {
             "page": 1,
             "country": country_code,
+            "format": media_format,
         },
     }
 
@@ -83,7 +92,7 @@ def fetch_page(country_code):
             json.dumps(result["errors"], ensure_ascii=False)
         )
 
-    return result["data"]["Page"]
+    return result["data"]["Page"]["media"]
 
 
 def main():
@@ -94,20 +103,26 @@ def main():
         "categories": {},
     }
 
-    for category, country_code in CATEGORIES.items():
-        print(f"Fetching {category} ({country_code})...")
+    for category, searches in CATEGORIES.items():
+        print(f"Fetching {category}...")
+        items_by_id = {}
 
-        try:
-            page_data = fetch_page(country_code)
-            catalog["categories"][category] = page_data["media"]
-            print(
-                f"Fetched {len(page_data['media'])} {category} titles."
-            )
-        except Exception as error:
-            print(f"Could not fetch {category}: {error}")
-            raise
+        for country_code, media_format in searches:
+            print(f"  Country: {country_code}, Format: {media_format}")
 
-        time.sleep(2)
+            items = fetch_page(country_code, media_format)
+
+            for item in items:
+                items_by_id[item["id"]] = item
+
+            print(f"  Fetched {len(items)} titles.")
+            time.sleep(2)
+
+        catalog["categories"][category] = list(items_by_id.values())
+        print(
+            f"Total {category} titles: "
+            f"{len(catalog['categories'][category])}"
+        )
 
     OUTPUT_FILE.parent.mkdir(parents=True, exist_ok=True)
     OUTPUT_FILE.write_text(
