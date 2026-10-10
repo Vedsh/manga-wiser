@@ -2766,6 +2766,7 @@
     ========================== -->
 
 <script>
+     
     /* =========================
        ALL CONTENT SLIDERS
     ========================== */
@@ -2967,6 +2968,25 @@
     menuOverlay.addEventListener("click", function () {
         closeMenu();
     });
+
+     
+    /* =========================
+       SEARCH PANEL
+    ========================== */
+
+    const searchButton = document.querySelector(".search-button");
+    const searchPanel = document.querySelector(".search-panel");
+    const searchInput = document.querySelector("#site-search");
+
+    if (searchButton && searchPanel) {
+        searchButton.addEventListener("click", function () {
+            searchPanel.classList.toggle("open");
+
+            if (searchPanel.classList.contains("open") && searchInput) {
+                searchInput.focus();
+            }
+        });
+    }
 
 </script>
 
