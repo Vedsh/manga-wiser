@@ -1,4 +1,3 @@
-
 async function loadMangaWiserCatalog() {
     const sections = {
         manga: document.querySelector("#latest-manga .release-slider"),
@@ -116,3 +115,106 @@ async function loadMangaWiserCatalog() {
 }
 
 document.addEventListener("DOMContentLoaded", loadMangaWiserCatalog);
+
+ 
+async function loadLatestReleases() {
+    const slider = document.querySelector(
+        "#latest-releases .release-slider"
+    );
+
+    if (!slider) return;
+
+    try {
+        const response = await fetch("data/latest-releases.json");
+
+        if (!response.ok) {
+            throw new Error("Latest releases data could not be loaded.");
+        }
+
+        const data = await response.json();
+        const releases = data.releases || [];
+
+        if (releases.length === 0) {
+            console.warn("No latest releases found.");
+            return;
+        }
+
+        const categoryNames = {
+            manga: "Manga",
+            manhwa: "Manhwa",
+            manhua: "Manhua",
+            novel: "Novel / Web Novel",
+            oneshot: "One-shot",
+            unknown: "New Release"
+        };
+
+        const fragment = document.createDocumentFragment();
+
+        releases.slice(0, 100).forEach(release => {
+            const card = document.createElement("article");
+            card.className = "release-card";
+
+            const imageBox = document.createElement("div");
+            imageBox.className = "release-image";
+
+            const imageUrl =
+                release.coverImage?.extraLarge ||
+                release.coverImage?.large;
+
+            if (imageUrl) {
+                const image = document.createElement("img");
+                image.src = imageUrl;
+                image.alt = release.seriesTitle || release.title;
+                image.loading = "lazy";
+                image.style.width = "100%";
+                image.style.height = "100%";
+                image.style.objectFit = "cover";
+
+                imageBox.appendChild(image);
+            }
+
+            const info = document.createElement("div");
+            info.className = "release-info";
+
+            const type = document.createElement("span");
+            type.className = "release-type";
+            type.textContent =
+                categoryNames[release.category] || "New Release";
+
+            const title = document.createElement("h3");
+            title.textContent =
+                release.seriesTitle || release.title;
+
+            const details = document.createElement("p");
+            const releaseType = release.releaseType || "Release";
+
+            details.textContent = [
+                releaseType,
+                release.date
+            ].filter(Boolean).join(" • ");
+
+            const link = document.createElement("a");
+            link.href = release.link || release.siteUrl || "#";
+            link.target = "_blank";
+            link.rel = "noopener noreferrer";
+            link.textContent = "View Release";
+            link.style.display = "inline-block";
+            link.style.marginTop = "8px";
+
+            info.append(type, title, details, link);
+            card.append(imageBox, info);
+            fragment.appendChild(card);
+        });
+
+        slider.replaceChildren(fragment);
+
+        console.log(
+            `Loaded ${releases.length} Manga Wiser releases.`
+        );
+
+    } catch (error) {
+        console.error("Latest releases error:", error);
+    }
+}
+
+document.addEventListener("DOMContentLoaded", loadLatestReleases);
