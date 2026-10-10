@@ -196,10 +196,7 @@ const chapterInfo = [
     chapterMatch ? `Ch. ${chapterMatch[1]}` : ""
 ].filter(Boolean).join(" • ");
 
-details.textContent = [
-    chapterInfo || releaseType,
-    release.date
-].filter(Boolean).join(" • ");
+details.textContent = chapterInfo || releaseType;
 
             const link = document.createElement("a");
             link.href = release.link || release.siteUrl || "#";
