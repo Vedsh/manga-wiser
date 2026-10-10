@@ -980,7 +980,3 @@ footer {
 #search-results:empty {
     display: none;
 }
-
-html {
-    scroll-behavior: smooth;
-}
