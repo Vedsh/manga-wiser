@@ -184,14 +184,22 @@ async function loadLatestReleases() {
             const title = document.createElement("h3");
             title.textContent =
                 release.seriesTitle || release.title;
+            
+const details = document.createElement("p");
+const releaseType = release.releaseType || "Release";
 
-            const details = document.createElement("p");
-            const releaseType = release.releaseType || "Release";
+const chapterMatch = release.title.match(/\bc\.?\s*(\d+(?:\.\d+)?)/i);
+const volumeMatch = release.title.match(/\bv\.?\s*(\d+)/i);
 
-            details.textContent = [
-                releaseType,
-                release.date
-            ].filter(Boolean).join(" • ");
+const chapterInfo = [
+    volumeMatch ? `Vol. ${volumeMatch[1]}` : "",
+    chapterMatch ? `Ch. ${chapterMatch[1]}` : ""
+].filter(Boolean).join(" • ");
+
+details.textContent = [
+    chapterInfo || releaseType,
+    release.date
+].filter(Boolean).join(" • ");
 
             const link = document.createElement("a");
             link.href = release.link || release.siteUrl || "#";
