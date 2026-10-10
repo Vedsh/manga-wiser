@@ -1,8 +1,11 @@
+
 async function loadMangaWiserCatalog() {
     const sections = {
         manga: document.querySelector("#latest-manga .release-slider"),
         manhwa: document.querySelector("#latest-manhwa .release-slider"),
-        manhua: document.querySelector("#latest-manhua .release-slider")
+        manhua: document.querySelector("#latest-manhua .release-slider"),
+        novel: document.querySelector("#latest-novel .release-slider"),
+        oneshot: document.querySelector("#latest-oneshot .release-slider")
     };
 
     function getTitle(item) {
@@ -40,18 +43,31 @@ async function loadMangaWiserCatalog() {
 
         const type = document.createElement("span");
         type.className = "release-type";
-        type.textContent =
-            category.charAt(0).toUpperCase() + category.slice(1);
+
+        const categoryNames = {
+            manga: "Manga",
+            manhwa: "Manhwa",
+            manhua: "Manhua",
+            novel: "Novel / Web Novel",
+            oneshot: "One-shot"
+        };
+
+        type.textContent = categoryNames[category] || category;
 
         const title = document.createElement("h3");
         title.textContent = getTitle(item);
 
         const details = document.createElement("p");
-        details.textContent = item.chapters
-            ? `${item.chapters} chapters`
-            : item.status
+
+        if (item.chapters) {
+            details.textContent = `${item.chapters} chapters`;
+        } else if (item.volumes) {
+            details.textContent = `${item.volumes} volumes`;
+        } else {
+            details.textContent = item.status
                 ? item.status.replaceAll("_", " ")
-                : "Manga information";
+                : "Catalog information";
+        }
 
         const link = document.createElement("a");
         link.href = item.siteUrl || "#";
@@ -76,11 +92,12 @@ async function loadMangaWiserCatalog() {
 
         const catalog = await response.json();
 
-        for (const category of ["manga", "manhwa", "manhua"]) {
+        for (const category of Object.keys(sections)) {
             const slider = sections[category];
             const items = catalog.categories?.[category] || [];
 
             if (!slider || items.length === 0) {
+                console.warn(`No catalog entries found for ${category}.`);
                 continue;
             }
 
