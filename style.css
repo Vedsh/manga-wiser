@@ -933,3 +933,50 @@ footer {
         min-height: 64px;
     }
 }
+
+ 
+/* =========================
+   SEARCH RESULTS DESIGN
+========================= */
+
+#search-results {
+    margin-top: 12px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    max-height: 320px;
+    overflow-y: auto;
+}
+
+.search-result-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+    padding: 14px 16px;
+    background: #15151f;
+    border: 1px solid #292536;
+    border-radius: 10px;
+    color: #f5f3ff;
+    transition: background 0.2s ease, border-color 0.2s ease;
+}
+
+.search-result-item:hover {
+    background: #21182f;
+    border-color: #a855f7;
+}
+
+.search-result-item strong {
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.search-result-item span {
+    color: #b7a2d8;
+    font-size: 12px;
+    white-space: nowrap;
+}
+
+#search-results:empty {
+    display: none;
+}
