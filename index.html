@@ -3031,6 +3031,16 @@
                     const result = document.createElement("div");
                     result.className = "search-result-item";
 
+                    
+result.style.cursor = "pointer";
+
+result.addEventListener("click", function () {
+    card.scrollIntoView({
+        behavior: "smooth",
+        block: "center"
+    });
+});
+
                     const resultTitle = document.createElement("strong");
                     resultTitle.textContent = titleText;
 
