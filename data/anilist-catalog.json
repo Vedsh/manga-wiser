@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-10T04:59:19.690026+00:00",
+  "fetched_at": "2026-10-10T05:26:13.983102+00:00",
   "source": "AniList",
   "test_batch": true,
   "categories": {
@@ -2311,6 +2311,2992 @@
         "volumes": null,
         "averageScore": 67,
         "siteUrl": "https://anilist.co/manga/101419"
+      }
+    ],
+    "novel": [
+      {
+        "id": 94970,
+        "title": {
+          "romaji": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e",
+          "english": "Classroom of the Elite",
+          "native": "ようこそ実力至上主義の教室へ"
+        },
+        "description": "Students of the prestigious Tokyo Metropolitan Advanced Nurturing High School are given remarkable freedom—if they can win, barter, or save enough points to work their way up the ranks! Ayanokoji Kiyotaka has landed at the bottom in the scorned Class D, where he meets Horikita Suzune, who’s determined to rise up the ladder to Class A. Can they beat the system in a school where cutthroat competition is the name of the game?\n<br><br>\n(Source: Seven Seas Entertainment)\n<br><br>\n<b>Includes Volumes:</b> 4.5, 7.5, 11.5<br>\n<b>Included Chapters:</b> 14 Prologues, 13 Epilogues, 1 Extra",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx94970-q77X5sfRIKvU.jpg",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx94970-q77X5sfRIKvU.jpg"
+        },
+        "genres": [
+          "Drama",
+          "Psychological",
+          "Slice of Life",
+          "Thriller"
+        ],
+        "status": "FINISHED",
+        "format": "NOVEL",
+        "countryOfOrigin": "JP",
+        "startDate": {
+          "year": 2015,
+          "month": 5,
+          "day": 25
+        },
+        "chapters": 110,
+        "volumes": 14,
+        "averageScore": 84,
+        "siteUrl": "https://anilist.co/manga/94970"
+      },
+      {
+        "id": 85470,
+        "title": {
+          "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+          "english": "Mushoku Tensei: Jobless Reincarnation",
+          "native": "無職転生 ～異世界行ったら本気だす～"
+        },
+        "description": "Kicked out by his family and wandering the streets, an unemployed 34-year-old shut-in thinks he’s hit rock-bottom—just as he’s hit and killed by a speeding truck! Awakening to find himself reborn as an infant in a world of swords and sorcery, but with the memories of his first life intact, Rudeus Greyrat is determined not to repeat his past mistakes. He’s going to make the most of this reincarnation as he sets off on the adventure of a second lifetime!\n<br><br>\n(Source: Seven Seas Entertainment)",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx85470-jt6BF9tDWB2X.jpg",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx85470-jt6BF9tDWB2X.jpg"
+        },
+        "genres": [
+          "Adventure",
+          "Drama",
+          "Ecchi",
+          "Fantasy"
+        ],
+        "status": "FINISHED",
+        "format": "NOVEL",
+        "countryOfOrigin": "JP",
+        "startDate": {
+          "year": 2014,
+          "month": 1,
+          "day": 23
+        },
+        "chapters": 334,
+        "volumes": 26,
+        "averageScore": 85,
+        "siteUrl": "https://anilist.co/manga/85470"
+      },
+      {
+        "id": 98361,
+        "title": {
+          "romaji": "Mikkakan no Koufuku",
+          "english": "Three Days of Happiness",
+          "native": "三日間の幸福"
+        },
+        "description": "HOW MUCH IS LIFE TRULY WORTH?<br>\nKusunoki used to believe he was destined for great things. Ostracized as a child, he held on to a belief that a good life was waiting for him in the years ahead. Now approaching the age of twenty, he's a completely mediocre college student with no motivation, no dreams, and no money. After learning he can sell his remaining years-and just how little they're worth-he chooses to divest himself of all but his last three months. Has Kusunoki truly destroyed his last chance to find happiness...or has he somehow found it?<br>\n<br>(Source: Yen Press)\n",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx98361-Zn6ICdUCq7pf.jpg",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx98361-Zn6ICdUCq7pf.jpg"
+        },
+        "genres": [
+          "Drama",
+          "Psychological",
+          "Romance",
+          "Slice of Life",
+          "Supernatural"
+        ],
+        "status": "FINISHED",
+        "format": "NOVEL",
+        "countryOfOrigin": "JP",
+        "startDate": {
+          "year": 2013,
+          "month": 12,
+          "day": 25
+        },
+        "chapters": 15,
+        "volumes": 1,
+        "averageScore": 88,
+        "siteUrl": "https://anilist.co/manga/98361"
+      },
+      {
+        "id": 85737,
+        "title": {
+          "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu",
+          "english": "Re:ZERO -Starting Life in Another World-",
+          "native": "Re:ゼロから始める異世界生活"
+        },
+        "description": "Subaru Natsuki was just trying to get to the convenience store but wound up summoned to another world. He encounters the usual things--life-threatening situations, silver haired beauties, cat fairies--you know, normal stuff. All that would be bad enough, but he's also gained the most inconvenient magical ability of all--time travel, but he's got to die to use it. How do you repay someone who saved your life when all you can do is die?<br>\n<br>\n(Source: Yen Press)",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx85737-WkWOr5EgwPyo.jpg",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx85737-WkWOr5EgwPyo.jpg"
+        },
+        "genres": [
+          "Action",
+          "Adventure",
+          "Drama",
+          "Fantasy",
+          "Mystery",
+          "Psychological",
+          "Romance",
+          "Thriller"
+        ],
+        "status": "RELEASING",
+        "format": "NOVEL",
+        "countryOfOrigin": "JP",
+        "startDate": {
+          "year": 2014,
+          "month": 1,
+          "day": 24
+        },
+        "chapters": null,
+        "volumes": null,
+        "averageScore": 88,
+        "siteUrl": "https://anilist.co/manga/85737"
+      },
+      {
+        "id": 85134,
+        "title": {
+          "romaji": "Utsuro no Hako to Zero no Maria",
+          "english": "The Empty Box and Zeroth Maria",
+          "native": "空ろの箱と零のマリア"
+        },
+        "description": "Kazuki Hoshino treasures nothing more than his ordinary life, and March 2 should have been an ordinary day. The arrival of a transfer student, the mysterious Aya Otonashi, shouldn't have shattered the world he knows. He's never seen this girl before in his life, but she says she's met him thousands of times--and declares war on him for a crime he can't even remember... As the truth begins to unravel, nothing is as it seems, and at the heart of it all is a wish powerful enough to change everything...<br><br>(Source: Yen Press)",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx85134-a6TDxeB6jQES.png",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx85134-a6TDxeB6jQES.png"
+        },
+        "genres": [
+          "Action",
+          "Mystery",
+          "Psychological",
+          "Romance",
+          "Supernatural",
+          "Thriller"
+        ],
+        "status": "FINISHED",
+        "format": "NOVEL",
+        "countryOfOrigin": "JP",
+        "startDate": {
+          "year": 2009,
+          "month": 1,
+          "day": 7
+        },
+        "chapters": 254,
+        "volumes": 7,
+        "averageScore": 84,
+        "siteUrl": "https://anilist.co/manga/85134"
+      },
+      {
+        "id": 98610,
+        "title": {
+          "romaji": "86: Eighty Six",
+          "english": "86―EIGHTY-SIX",
+          "native": "86―エイティシックス―"
+        },
+        "description": "A War Without Casualties:\n<br><br>\nThe Republic of San Magnolia has long been under attack from the neighboring Giadian Empire's army of unmanned drones known as the Legion. After years of painstaking research, the Republic finally developed autonomous drones of their own, turning the one-sided struggle into a war without casualties-or at least, that's what the government claims.<br><br>\nIn truth, there is no such thing as a bloodless war. Beyond the fortified walls protecting the eighty-five Republic territories lies the \"nonexistent\" Eighty-Sixth Sector. The young men and women of this forsaken land are branded the Eighty-Six and, stripped of their humanity, pilot the \"unmanned\" weapons into battle...\n<br><br>\n(Source: Yen Press)",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx98610-TIf7R1gkU0vc.jpg",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx98610-TIf7R1gkU0vc.jpg"
+        },
+        "genres": [
+          "Action",
+          "Drama",
+          "Mecha",
+          "Romance",
+          "Sci-Fi"
+        ],
+        "status": "RELEASING",
+        "format": "NOVEL",
+        "countryOfOrigin": "JP",
+        "startDate": {
+          "year": 2017,
+          "month": 2,
+          "day": 10
+        },
+        "chapters": null,
+        "volumes": null,
+        "averageScore": 88,
+        "siteUrl": "https://anilist.co/manga/98610"
+      },
+      {
+        "id": 70171,
+        "title": {
+          "romaji": "Yahari Ore no Seishun Love Come wa Machigatteiru.",
+          "english": "My Youth Romantic Comedy Is Wrong, As I Expected",
+          "native": "やはり俺の青春ラブコメはまちがっている。"
+        },
+        "description": "Hikigaya Hachiman is a high school boy with twisted character. He prefers to go against the trend and refuses to make friends with anybody. In order to get Hachiman back the right track, his school teacher Hiratsuka Shizuka forces him to enter 'Public Service Club'. There he meets other problematic students.<br><br>\n<i>Includes volumes 6.5, 7.5, 10.5, and 14.5.</i>",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx70171-SjwD5wlgUpJV.jpg",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx70171-SjwD5wlgUpJV.jpg"
+        },
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance",
+          "Slice of Life"
+        ],
+        "status": "FINISHED",
+        "format": "NOVEL",
+        "countryOfOrigin": "JP",
+        "startDate": {
+          "year": 2011,
+          "month": 3,
+          "day": 23
+        },
+        "chapters": 168,
+        "volumes": 18,
+        "averageScore": 85,
+        "siteUrl": "https://anilist.co/manga/70171"
+      },
+      {
+        "id": 44893,
+        "title": {
+          "romaji": "Bakemonogatari",
+          "english": "Bakemonogatari: Monster Tale",
+          "native": "化物語"
+        },
+        "description": "The first part of the Monogatari Series.\n<br><br>\nThere’s a girl at their school who is always ill. She routinely arrives late, leaves early, or doesn’t show up at all, and skips gym as a matter of course. She’s pretty, and the boys take to whispering that she’s a cloistered princess. As the self-described worst loser in her class soon finds out, they just don’t know what a monster she is. So begins a tale of mysterious maladies that are supernatural in origin yet deeply revealing of the human psyche, a set of case files as given to unexpected feeling as it is to irreverent humour.\n<br><br>\n(Source: Kodansha USA)\n<br><br>\n<i>Note: The English release and the JP ebook edition have Bakemonogatari split across three volumes, instead of the original two volumes.</i>",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx44893-aV0XRP0OfWf7.jpg",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx44893-aV0XRP0OfWf7.jpg"
+        },
+        "genres": [
+          "Action",
+          "Mystery",
+          "Romance",
+          "Supernatural"
+        ],
+        "status": "FINISHED",
+        "format": "NOVEL",
+        "countryOfOrigin": "JP",
+        "startDate": {
+          "year": 2006,
+          "month": 11,
+          "day": 1
+        },
+        "chapters": 41,
+        "volumes": 2,
+        "averageScore": 87,
+        "siteUrl": "https://anilist.co/manga/44893"
+      },
+      {
+        "id": 39115,
+        "title": {
+          "romaji": "Ookami to Koushinryou",
+          "english": "Spice & Wolf",
+          "native": "狼と香辛料"
+        },
+        "description": "The life of a traveling merchant is a lonely one, a fact with which Kraft Lawrence is well acquainted. Wandering from town to town with just his horse, cart, and whatever wares have come his way, the peddler has pretty well settled into his routine&mdash;that is, until the night Lawrence finds a wolf goddess asleep in his cart. Taking the form of a fetching girl with wolf ears and a tail, Holo has wearied of tending to harvests in the countryside and strikes up a bargain with the merchant to lend him the cunning of &ldquo;Holo the Wisewolf&rdquo; to increase his profits in exchange for taking her along on his travels. What kind of businessman could turn down such an offer? Lawrence soon learns, though, that having an ancient goddess as a traveling companion can be a bit of a mixed blessing. Will this wolf girl turn out to be too wild to tame?<br><br>\n(Source: Yen Press)",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx39115-2uLgBuM30i1b.jpg",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx39115-2uLgBuM30i1b.jpg"
+        },
+        "genres": [
+          "Adventure",
+          "Drama",
+          "Fantasy",
+          "Romance",
+          "Supernatural"
+        ],
+        "status": "RELEASING",
+        "format": "NOVEL",
+        "countryOfOrigin": "JP",
+        "startDate": {
+          "year": 2006,
+          "month": 2,
+          "day": 10
+        },
+        "chapters": null,
+        "volumes": null,
+        "averageScore": 86,
+        "siteUrl": "https://anilist.co/manga/39115"
+      },
+      {
+        "id": 86355,
+        "title": {
+          "romaji": "Tensei Shitara Slime Datta Ken",
+          "english": "That Time I Got Reincarnated as a Slime",
+          "native": "転生したらスライムだった件"
+        },
+        "description": "Living alone and never having had a girlfriend, 37-year-old Satoru Mikami is dissatisfied with how his life has turned out. But after dying at the hands of a robber, he awakens to a fresh start in a new world...as a slime monster.<br>\n<br>\n(Source: Yen Press)\n<br><br><i>Note: Includes 61 extra chapters.</i>",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx86355-pGwmLqVTwwE4.jpg",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx86355-pGwmLqVTwwE4.jpg"
+        },
+        "genres": [
+          "Adventure",
+          "Comedy",
+          "Fantasy"
+        ],
+        "status": "FINISHED",
+        "format": "NOVEL",
+        "countryOfOrigin": "JP",
+        "startDate": {
+          "year": 2014,
+          "month": 5,
+          "day": 30
+        },
+        "chapters": 168,
+        "volumes": 23,
+        "averageScore": 84,
+        "siteUrl": "https://anilist.co/manga/86355"
+      },
+      {
+        "id": 86238,
+        "title": {
+          "romaji": "Kono Subarashii Sekai ni Shukufuku wo!",
+          "english": "Konosuba: God's Blessing on This Wonderful World!",
+          "native": "この素晴らしい世界に祝福を!"
+        },
+        "description": "Game loving shut-in Kazuma Sato's life as a young schoolboy in Japan abruptly comes to an early end...or at least it was supposed to. When he opens his eyes, though, he sees a beautiful goddess that offers him a once in an after-lifetime chance to be reborn in a parallel world. The catch is that the world is violent and threatened by a growing evil! Fortunately, he can choose any one thing to bring with him. So he chooses the goddess, Aqua! And so his adventure with his gorgeous companion begins--if he could just get enough money and food to survive, keep his goddess out of trouble, and avoid grabbing the attention of the Demon King's army!\n<br><br>(Source: Yen Press)\n<br><br><i>Note: Includes 42 extra chapters.</i>",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx86238-PvTZXUWWg2gd.jpg",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx86238-PvTZXUWWg2gd.jpg"
+        },
+        "genres": [
+          "Adventure",
+          "Comedy",
+          "Ecchi",
+          "Fantasy",
+          "Romance"
+        ],
+        "status": "FINISHED",
+        "format": "NOVEL",
+        "countryOfOrigin": "JP",
+        "startDate": {
+          "year": 2013,
+          "month": 10,
+          "day": 1
+        },
+        "chapters": 127,
+        "volumes": 17,
+        "averageScore": 84,
+        "siteUrl": "https://anilist.co/manga/86238"
+      },
+      {
+        "id": 85976,
+        "title": {
+          "romaji": "Overlord",
+          "english": "Overlord",
+          "native": "オーバーロード"
+        },
+        "description": "For twelve years, the virtual world of Yggdrasil has served as the playground and battlefield for the skeletal lord Momonga and his guild of fellow monsters, Ainz Ooal Gown. But the guild's glory days are over, and the game is shutting down permanently. When Momonga logs in one last time just to be there when the servers go dark, something happens--and suddenly, fantasy is reality. A rogues' gallery of fanatically devoted NPCs is ready to obey his every order, but the world Momonga now inhabits is not the one he remembers. The game may be over, but the epic tale of Ainz Ooal Gown is only beginning...<br><br>(Source: Yen Press)",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx85976-hVr99G1kD1M5.png",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx85976-hVr99G1kD1M5.png"
+        },
+        "genres": [
+          "Action",
+          "Adventure",
+          "Comedy",
+          "Fantasy",
+          "Horror",
+          "Supernatural"
+        ],
+        "status": "RELEASING",
+        "format": "NOVEL",
+        "countryOfOrigin": "JP",
+        "startDate": {
+          "year": 2012,
+          "month": 6,
+          "day": 30
+        },
+        "chapters": null,
+        "volumes": 18,
+        "averageScore": 84,
+        "siteUrl": "https://anilist.co/manga/85976"
+      },
+      {
+        "id": 78399,
+        "title": {
+          "romaji": "No Game No Life",
+          "english": null,
+          "native": "ノーゲーム・ノーライフ"
+        },
+        "description": "In this fantasy world, everything's a game--and these gamer siblings play to win! Meet Sora and Shiro, a brother and sister who are loser shut-ins by normal standards. But these siblings don't play by the rules of the \"crappy game\" that is average society. In the world of gaming, this genius pair reigns supreme, their invincible avatar so famous that it's the stuff of urban legend. So when a young boy calling himself God summons the siblings to a fantastic alternate world where war is forbidden and all conflicts--even those involving national borders--are decided by the outcome of games, Sora and Shiro have pretty much hit the jackpot. But they soon learn that in this world, humanity, cornered and outnumbered by other species, survives within the confines of one city. Will Sora and Shiro, two failures at life, turn out to be the saviors of mankind? Let the games begin...!\n<BR><BR>\n(Source: Yen Press)",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx78399-ohUhCDKw0CJs.jpg",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx78399-ohUhCDKw0CJs.jpg"
+        },
+        "genres": [
+          "Adventure",
+          "Comedy",
+          "Ecchi",
+          "Fantasy"
+        ],
+        "status": "RELEASING",
+        "format": "NOVEL",
+        "countryOfOrigin": "JP",
+        "startDate": {
+          "year": 2012,
+          "month": 4,
+          "day": 25
+        },
+        "chapters": null,
+        "volumes": null,
+        "averageScore": 81,
+        "siteUrl": "https://anilist.co/manga/78399"
+      },
+      {
+        "id": 115166,
+        "title": {
+          "romaji": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e: 2-nensei-hen",
+          "english": "Classroom of the Elite: Year 2",
+          "native": "ようこそ実力至上主義の教室へ　２年生編"
+        },
+        "description": "Students of the prestigious Tokyo Metropolitan Advanced Nurturing High School are given remarkable freedom–if they can win, barter, or save enough points to work their way up the ranks! Ayanokouji Kiyotaka started at the bottom in the scorned Class D, where he met Horikita Suzune, who was determined to rise up the ladder to Class A. Who can beat the system in a school where cutthroat competition is the name of the game? The second year of this intense school drama begins now!\n<br><br>\n(Source: Seven Seas Entertainment)\n<br><br>\n<b>Includes Volumes:</b> 4.5, 9.5, 12.5<br>\n<b>Included Chapters:</b> 15 Prologues and 15 Epilogues.",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx115166-eBK5EqkUTplf.jpg",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx115166-eBK5EqkUTplf.jpg"
+        },
+        "genres": [
+          "Drama",
+          "Psychological",
+          "Thriller"
+        ],
+        "status": "FINISHED",
+        "format": "NOVEL",
+        "countryOfOrigin": "JP",
+        "startDate": {
+          "year": 2020,
+          "month": 1,
+          "day": 24
+        },
+        "chapters": 130,
+        "volumes": 15,
+        "averageScore": 84,
+        "siteUrl": "https://anilist.co/manga/115166"
+      },
+      {
+        "id": 51479,
+        "title": {
+          "romaji": "Sword Art Online",
+          "english": "Sword Art Online",
+          "native": "ソードアート・オンライン"
+        },
+        "description": "In the year 2022, gamers rejoice as Sword Art Online - a VRMMORPG (Virtual Reality Massively Multiplayer Online Role Playing Game) like no other - debuts, allowing players to take full advantage of the ultimate in gaming technology: NerveGear, a system that allows users to completely immerse themselves in a wholly realistic gaming experience. But when the game goes live, the elation of the players quickly turns to horror as they discover that, for all its amazing features, SAO is missing one of the most basic functions of any MMORPG - a log-out button. Now trapped in the virtual world of Aincrad, their bodies held captive by NerveGear in the real world, users are issued a chilling ultimatum: conquer all one hundred floors of Aincrad to regain your freedom. But in the warped world of SAO, \"game over\" means certain death - both virtual and real...\n<BR><BR>\n(Source: Yen Press)",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx51479-ufMREP6e1UkT.jpg",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx51479-ufMREP6e1UkT.jpg"
+        },
+        "genres": [
+          "Action",
+          "Adventure",
+          "Fantasy",
+          "Romance",
+          "Sci-Fi"
+        ],
+        "status": "RELEASING",
+        "format": "NOVEL",
+        "countryOfOrigin": "JP",
+        "startDate": {
+          "year": 2009,
+          "month": 4,
+          "day": 10
+        },
+        "chapters": null,
+        "volumes": null,
+        "averageScore": 77,
+        "siteUrl": "https://anilist.co/manga/51479"
+      },
+      {
+        "id": 99026,
+        "title": {
+          "romaji": "Kusuriya no Hitorigoto",
+          "english": "The Apothecary Diaries",
+          "native": "薬屋のひとりごと"
+        },
+        "description": "In the East is a land ruled by an emperor, whose consorts and serving women live in a sprawling complex known as the hougong, the rear palace. Maomao, an unassuming girl raised in an unassuming town by her apothecary father, never imagined the rear palace would have anything to do with her—until she was kidnapped and sold into service there.<br>\nThough she looks ordinary, Maomao has a quick wit, a sharp mind, and an extensive knowledge of medicine. That's her secret, until she encounters a resident of the palace at least as perceptive as she is: the head eunuch, Jinshi. He sees through Maomao's façade and makes her a lady-in-waiting to none other than the Emperor's favorite consort... so she can taste the lady's food for poison!\n<br><br>\n(Source: J-Novel Club)",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx99026-5Eg650WAd9Rj.jpg",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx99026-5Eg650WAd9Rj.jpg"
+        },
+        "genres": [
+          "Drama",
+          "Mystery"
+        ],
+        "status": "RELEASING",
+        "format": "NOVEL",
+        "countryOfOrigin": "JP",
+        "startDate": {
+          "year": 2014,
+          "month": 8,
+          "day": 29
+        },
+        "chapters": null,
+        "volumes": null,
+        "averageScore": 87,
+        "siteUrl": "https://anilist.co/manga/99026"
+      },
+      {
+        "id": 39726,
+        "title": {
+          "romaji": "Kubikiri Cycle: Aoiro Savant to Zaregotozukai",
+          "english": "Decapitation: Kubikiri Cycle",
+          "native": "クビキリサイクル　青色サヴァンと戯言遣い"
+        },
+        "description": "A dropout from an elite Houston-based program for teens is on a visit to a private island. Its mistress, virtually marooned there, surrounds herself with geniuses, especially of the young and female kind—one of whom ends up headless one fine morning.\n<br><br>\n(Source: Kodansha USA)",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx39726-L3YnCwitbJdE.png",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx39726-L3YnCwitbJdE.png"
+        },
+        "genres": [
+          "Action",
+          "Comedy",
+          "Drama",
+          "Mystery",
+          "Psychological"
+        ],
+        "status": "FINISHED",
+        "format": "NOVEL",
+        "countryOfOrigin": "JP",
+        "startDate": {
+          "year": 2002,
+          "month": 2,
+          "day": 5
+        },
+        "chapters": 9,
+        "volumes": 1,
+        "averageScore": 83,
+        "siteUrl": "https://anilist.co/manga/39726"
+      },
+      {
+        "id": 91170,
+        "title": {
+          "romaji": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+          "english": "Rascal Does Not Dream of Bunny Girl Senpai",
+          "native": "青春ブタ野郎はバニーガール先輩の夢を見ない"
+        },
+        "description": "<i>Book 1 of the Seishun Buta Yarou series.</i>\n<br><br>\nOut of sight, out of mind! Bunny girls do not live in libraries. This is simply common sense. And yet, that's exactly where Sakuta finds one in the wild. More bewildering is who the bunny girl is: Mai Sakurajima, a girl one year older than Sakuta, famous at their school for her acting career even though she's currently on break. To top it all off, it seems like no one else in the library can see Mai at all, no matter what she does or...wears. Wanting to find out more about this mystery and maybe get a little closer to this beautiful upperclassman in the process, Sakuta launches an investigation to discover why an unforgettable bunny girl keeps becoming totally invisible.\n<br><br>\n(Source: Yen Press)",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx91170-qHi5fD36nWks.jpg",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx91170-qHi5fD36nWks.jpg"
+        },
+        "genres": [
+          "Comedy",
+          "Psychological",
+          "Romance",
+          "Supernatural"
+        ],
+        "status": "FINISHED",
+        "format": "NOVEL",
+        "countryOfOrigin": "JP",
+        "startDate": {
+          "year": 2014,
+          "month": 4,
+          "day": 10
+        },
+        "chapters": 6,
+        "volumes": 1,
+        "averageScore": 85,
+        "siteUrl": "https://anilist.co/manga/91170"
+      },
+      {
+        "id": 85743,
+        "title": {
+          "romaji": "Tate no Yuusha no Nariagari",
+          "english": "The Rising of the Shield Hero",
+          "native": "盾の勇者の成り上がり"
+        },
+        "description": "Naofumi Iwatani, an uncharismatic Otaku who spends his days on games and manga, suddenly finds himself summoned to a parallel universe! He discovers he is one of four heroes equipped with legendary weapons and tasked with saving the world from its prophesied destruction. As the Shield Hero, the weakest of the heroes, all is not as it seems. Naofumi is soon alone, penniless, and betrayed. With no one to turn to, and nowhere to run, he is left with only his shield. Now, Naofumi must rise to become the legendary Shield Hero and save the world!<br><br>\n\n(Source: One Peace Books)",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx85743-CoWEORg0SS0B.png",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx85743-CoWEORg0SS0B.png"
+        },
+        "genres": [
+          "Action",
+          "Adventure",
+          "Fantasy"
+        ],
+        "status": "RELEASING",
+        "format": "NOVEL",
+        "countryOfOrigin": "JP",
+        "startDate": {
+          "year": 2013,
+          "month": 8,
+          "day": 23
+        },
+        "chapters": null,
+        "volumes": null,
+        "averageScore": 74,
+        "siteUrl": "https://anilist.co/manga/85743"
+      },
+      {
+        "id": 86406,
+        "title": {
+          "romaji": "Kumo desu ga, Nani ka?",
+          "english": "So I'm a Spider, So What?",
+          "native": "蜘蛛ですが、なにか？"
+        },
+        "description": "I used to be a normal high school girl but in the blink of an eye, I woke up in a place I've never seen before and-and I was reborn as a spider?! How could something that's nothing more than a tiny spider (that's me) possibly survive in literally the worst dungeon ever? Are there no rules? There should be some rules! Who the hell is responsible for this? SHOW YOUR FACE!<br><br>(Source: Yen Press)",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx86406-S22SQO8s6OOY.jpg",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx86406-S22SQO8s6OOY.jpg"
+        },
+        "genres": [
+          "Adventure",
+          "Comedy",
+          "Fantasy"
+        ],
+        "status": "FINISHED",
+        "format": "NOVEL",
+        "countryOfOrigin": "JP",
+        "startDate": {
+          "year": 2015,
+          "month": 12,
+          "day": 10
+        },
+        "chapters": 384,
+        "volumes": 16,
+        "averageScore": 83,
+        "siteUrl": "https://anilist.co/manga/86406"
+      },
+      {
+        "id": 42854,
+        "title": {
+          "romaji": "Toaru Majutsu no Index",
+          "english": "A Certain Magical Index",
+          "native": "とある魔術の禁書目録"
+        },
+        "description": "Set in a city of not only scientifically advanced superhuman students, but in a world where magic is also real. Kamijyo Touma's right hand, the Imagine Breaker, will negate all magic, psychic, or divine powers, as well as his own luck. One day he finds a young girl hanging on his balcony railing. She turns out to be a nun from the Church of England, and her mind has been implanted with the Index Librorum Prohibitorum&mdash;all the magical texts the Church has removed from circulation.<br><br>\n(Source: Wikipedia)<br><br>\n<i>Note: Includes 16 prologues, 18 epilogues, and 6 extras.</i>",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx42854-IOa3uoHblsCB.png",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx42854-IOa3uoHblsCB.png"
+        },
+        "genres": [
+          "Action",
+          "Comedy",
+          "Fantasy",
+          "Romance",
+          "Sci-Fi"
+        ],
+        "status": "FINISHED",
+        "format": "NOVEL",
+        "countryOfOrigin": "JP",
+        "startDate": {
+          "year": 2004,
+          "month": 4,
+          "day": 10
+        },
+        "chapters": 132,
+        "volumes": 22,
+        "averageScore": 82,
+        "siteUrl": "https://anilist.co/manga/42854"
+      },
+      {
+        "id": 108428,
+        "title": {
+          "romaji": "Kage no Jitsuryokusha ni Naritakute!",
+          "english": "The Eminence in Shadow",
+          "native": "陰の実力者になりたくて！"
+        },
+        "description": "One big fat lie and a few twisted truths.\n<br><br>\nEven in his past life, Cid's dream wasn't to become a protagonist or a final boss. He'd rather lie low as a minor character until it's prime time to reveal he's a mastermind...or at least, do the next best thing-pretend to be one! And now that he's been reborn into another world, he's ready to set the perfect conditions to live out his dreams to the fullest. Armed with his overactive imagination, Cid jokingly recruits members to his organization and makes up a whole backstory about an evil cult that they need to take down. Well, as luck would have it, these imaginary adversaries turn out to be the real deal-and everyone knows the truth but him!\n<br><br>\n(Source: Yen Press)",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx108428-wTg20rSpvkU9.jpg",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx108428-wTg20rSpvkU9.jpg"
+        },
+        "genres": [
+          "Action",
+          "Comedy",
+          "Fantasy"
+        ],
+        "status": "RELEASING",
+        "format": "NOVEL",
+        "countryOfOrigin": "JP",
+        "startDate": {
+          "year": 2018,
+          "month": 11,
+          "day": 5
+        },
+        "chapters": null,
+        "volumes": null,
+        "averageScore": 83,
+        "siteUrl": "https://anilist.co/manga/108428"
+      },
+      {
+        "id": 55409,
+        "title": {
+          "romaji": "High School DxD",
+          "english": "High School DxD",
+          "native": "ハイスクールD×D"
+        },
+        "description": "I’m going to make this school my harem!<br>\n<br>\nWhen a cute girl asks Issei out, he believes his twisted fantasies are finally coming true. Too bad the girl sprouts a pair of black wings and stabs him with a spear on their first date! Saved by his school’s number one beauty, Rias Gremory, Issei is transformed into a demon and made her servant. Issei hopes to rise through the ranks of demonkind to grow powerful enough to create his harem, but in a city with fallen angels and insane priests, he’ll be lucky if he can live long enough to do it!<br>\n<br>\n(Source: Yen Press)",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx55409-4WnmVLkRhSVS.jpg",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx55409-4WnmVLkRhSVS.jpg"
+        },
+        "genres": [
+          "Action",
+          "Comedy",
+          "Ecchi",
+          "Romance",
+          "Supernatural"
+        ],
+        "status": "FINISHED",
+        "format": "NOVEL",
+        "countryOfOrigin": "JP",
+        "startDate": {
+          "year": 2008,
+          "month": 9,
+          "day": 20
+        },
+        "chapters": 252,
+        "volumes": 25,
+        "averageScore": 78,
+        "siteUrl": "https://anilist.co/manga/55409"
+      },
+      {
+        "id": 33083,
+        "title": {
+          "romaji": "Suzumiya Haruhi no Yuuutsu",
+          "english": "The Melancholy of Haruhi Suzumiya",
+          "native": "涼宮ハルヒの憂鬱"
+        },
+        "description": "Kyon, your typical high school student, has long given up his belief in the supernatural. However, upon meeting Haruhi Suzumiya, he quickly finds out that it is the supernatural that she is interested in; aliens, time travelers and espers among other things. When Haruhi laments about the lack of intriguing clubs around school, Kyon inspires Haruhi to form her own club. As a result, the SOS Brigade is formed, a club which specializes in all that is the supernatural.<br><br>\nMuch to his chagrin, Kyon, along with the silent bookworm, Yuki Nagato, the shy and timid Mikuru Asahina, and the perpetually smiling Itsuki Koizumi, are recruited as members. The story follows the crazy adventures that these four endure under their whimsical leader, Haruhi.\n<br><br>\n<i>Note: Includes a prologue and epilogue.</i>",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx33083-tlDz3pkPz1Mc.jpg",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx33083-tlDz3pkPz1Mc.jpg"
+        },
+        "genres": [
+          "Comedy",
+          "Psychological",
+          "Sci-Fi",
+          "Slice of Life",
+          "Supernatural"
+        ],
+        "status": "FINISHED",
+        "format": "NOVEL",
+        "countryOfOrigin": "JP",
+        "startDate": {
+          "year": 2003,
+          "month": 6,
+          "day": 6
+        },
+        "chapters": 9,
+        "volumes": 1,
+        "averageScore": 83,
+        "siteUrl": "https://anilist.co/manga/33083"
+      },
+      {
+        "id": 85162,
+        "title": {
+          "romaji": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka",
+          "english": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+          "native": "ダンジョンに出会いを求めるのは間違っているだろうか"
+        },
+        "description": "In Orario, fearless adventurers band together in search of fame and fortune within the monstrous underground labyrinth known as Dungeon.\n<br><br>\nBut while riches and renown are incentive enough for most, Bell Cranel, would-be hero extraordinaire, has bigger plans.\n<br><br>\nHe wants to pick up girls.\n<br><br>\nIs it wrong to face the perils of Dungeon alone, in a single-member guild blessed by a failed goddess? Maybe. Is it wrong to dream of playing hero to hapless maidens in Dungeon? Maybe not. After one misguided adventure, Bell quickly discovers that anything can happen in the labyrinth--even chance encounters with beautiful women. The only problem? He's the one who winds up the damsel in distress!\n<br><br>\n(Source: Yen Press)",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx85162-Fpd3ejAlFWP8.jpg",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx85162-Fpd3ejAlFWP8.jpg"
+        },
+        "genres": [
+          "Action",
+          "Adventure",
+          "Comedy",
+          "Fantasy",
+          "Romance"
+        ],
+        "status": "RELEASING",
+        "format": "NOVEL",
+        "countryOfOrigin": "JP",
+        "startDate": {
+          "year": 2013,
+          "month": 1,
+          "day": 15
+        },
+        "chapters": null,
+        "volumes": null,
+        "averageScore": 81,
+        "siteUrl": "https://anilist.co/manga/85162"
+      }
+    ],
+    "oneshot": [
+      {
+        "id": 146983,
+        "title": {
+          "romaji": "Sayonara Eri",
+          "english": "Goodbye, Eri",
+          "native": "さよなら絵梨"
+        },
+        "description": "With his mother dying, Yuuta attempts to capture her last days on his phone. After her death, Yuuta heads to the roof of the hospital to commit suicide, but a meeting with a strange girl leads him on the path to making a movie.\n<br><br>\n(Source: Manga Plus)<br><br><i>Note: The one-shot was compiled in a special volume, released on July 4, 2022.</i>",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx146983-pLf4apCkFwKL.jpg",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx146983-pLf4apCkFwKL.jpg"
+        },
+        "genres": [
+          "Drama",
+          "Psychological"
+        ],
+        "status": "FINISHED",
+        "format": "ONE_SHOT",
+        "countryOfOrigin": "JP",
+        "startDate": {
+          "year": 2022,
+          "month": 4,
+          "day": 11
+        },
+        "chapters": 1,
+        "volumes": 1,
+        "averageScore": 85,
+        "siteUrl": "https://anilist.co/manga/146983"
+      },
+      {
+        "id": 136807,
+        "title": {
+          "romaji": "Look Back",
+          "english": "Look Back",
+          "native": "ルックバック"
+        },
+        "description": "Fujino is a fourth grader who draws a manga strip for the school newspaper. Her art makes her the star of the class, but one day she's told that Kyomoto, a student who refuses to come to school, would also like to submit a manga for the paper...\n<br><br>\n(Source: MANGA Plus)<br><br>\n<i>Note: The one-shot was compiled in a special volume, released on September 3, 2021.<i>",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx136807-KNfQQTRD4HUK.jpg",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx136807-KNfQQTRD4HUK.jpg"
+        },
+        "genres": [
+          "Drama",
+          "Slice of Life"
+        ],
+        "status": "FINISHED",
+        "format": "ONE_SHOT",
+        "countryOfOrigin": "JP",
+        "startDate": {
+          "year": 2021,
+          "month": 7,
+          "day": 19
+        },
+        "chapters": 1,
+        "volumes": 1,
+        "averageScore": 83,
+        "siteUrl": "https://anilist.co/manga/136807"
+      },
+      {
+        "id": 115122,
+        "title": {
+          "romaji": "DEATH NOTE: Tokubetsu Yomikiri",
+          "english": "Death Note: a-Kira",
+          "native": "DEATH NOTE 特別読切"
+        },
+        "description": "The chapter centers on Ryuk's Death Note being brought again to the human world, after the end of the main manga.  The chapter was later included in the volume “Death Note: Tanpenshuu”.",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx115122-HWsbTNeZyoFD.jpg",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx115122-HWsbTNeZyoFD.jpg"
+        },
+        "genres": [
+          "Mystery",
+          "Psychological",
+          "Supernatural"
+        ],
+        "status": "FINISHED",
+        "format": "ONE_SHOT",
+        "countryOfOrigin": "JP",
+        "startDate": {
+          "year": 2020,
+          "month": 2,
+          "day": 4
+        },
+        "chapters": 1,
+        "volumes": null,
+        "averageScore": 72,
+        "siteUrl": "https://anilist.co/manga/115122"
+      },
+      {
+        "id": 97812,
+        "title": {
+          "romaji": "Tokidoki",
+          "english": "Toki Doki",
+          "native": "刻どキ"
+        },
+        "description": "A heart can only beat so many times in a lifetime. Kokuhaku disease, a rare condition that weakens the heart, leaves the victim with less heartbeats and a shorter lifespan than normal. With the right device, the amount of heartbeats remaining can be measured. When Hato Iijima accidentally walks in on Hatsu Takagi changing her clothes, he sees this device attached to her chest. Hatsu has resigned herself to an uneventful and isolated life to avoid elevating her heart rate. However, she expresses her true desire—to freely and wholeheartedly experience every second she has left. Recognizing her wish, Hato swears to help her enjoy life to the fullest and make her heart beat like crazy.\n",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx97812-ApW0c5hDLFvX.png",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx97812-ApW0c5hDLFvX.png"
+        },
+        "genres": [
+          "Drama",
+          "Music",
+          "Romance"
+        ],
+        "status": "FINISHED",
+        "format": "ONE_SHOT",
+        "countryOfOrigin": "JP",
+        "startDate": {
+          "year": 2016,
+          "month": 10,
+          "day": 20
+        },
+        "chapters": 1,
+        "volumes": null,
+        "averageScore": 77,
+        "siteUrl": "https://anilist.co/manga/97812"
+      },
+      {
+        "id": 151194,
+        "title": {
+          "romaji": "Futsuu ni Kiite Kure",
+          "english": "Just Listen to the Song",
+          "native": "フツーに聞いてくれ"
+        },
+        "description": "A student presents his crush with a love song that he wrote, recorded himself performing, and uploaded to YouTube, and he tells her to watch it before giving him a reply. When he returns to school the next day, he finds that the girl has shown the video to the entire class over LINE. Amid the jeering of his classmates, she snidely apologizes to him and explains that his video was hilarious enough to warrant sharing.\n\nHowever, his decision to remove the upload is curbed after a ghost is spotted within the video, and a classmate advises against its deletion. His YouTube post eventually gains popularity as the growing audience discovers more anomalies, all intent on deciphering the hidden messages that its very uploader had not even intended.\n<br><br>\nA unique one-shot from the mad genius behind Chainsaw Man and the rising star of To Strip the Flesh.\n",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx151194-sP36vxnvOUGQ.jpg",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx151194-sP36vxnvOUGQ.jpg"
+        },
+        "genres": [
+          "Comedy",
+          "Romance",
+          "Supernatural"
+        ],
+        "status": "FINISHED",
+        "format": "ONE_SHOT",
+        "countryOfOrigin": "JP",
+        "startDate": {
+          "year": 2022,
+          "month": 7,
+          "day": 4
+        },
+        "chapters": 1,
+        "volumes": null,
+        "averageScore": 70,
+        "siteUrl": "https://anilist.co/manga/151194"
+      },
+      {
+        "id": 78621,
+        "title": {
+          "romaji": "Koe no Katachi",
+          "english": null,
+          "native": "聲の形"
+        },
+        "description": "A story about a grade school class that accepts a girl with impaired hearing. \n<br><br>\n<i>Winner of the 80th Weekly Shounen Magazine Newbie Best Mangaka Award.</i>",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx78621-5EoA5Nv06Ok4.jpg",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx78621-5EoA5Nv06Ok4.jpg"
+        },
+        "genres": [
+          "Drama"
+        ],
+        "status": "FINISHED",
+        "format": "ONE_SHOT",
+        "countryOfOrigin": "JP",
+        "startDate": {
+          "year": 2011,
+          "month": 1,
+          "day": 8
+        },
+        "chapters": 1,
+        "volumes": null,
+        "averageScore": 81,
+        "siteUrl": "https://anilist.co/manga/78621"
+      },
+      {
+        "id": 115154,
+        "title": {
+          "romaji": "Gokurakugai Sanban-doori no Ken",
+          "english": "Gokurakugai: Trouble on Third Avenue",
+          "native": "極楽街三番通の件"
+        },
+        "description": "Sister Tao and Al are a pair of \"trouble-shooters\", independent odd-jobs men working in a red light district for whoever can pay. Then a little girl tries to pick Al's pocket...",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx115154-12CXd1lQejQm.jpg",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx115154-12CXd1lQejQm.jpg"
+        },
+        "genres": [
+          "Action",
+          "Drama",
+          "Fantasy"
+        ],
+        "status": "FINISHED",
+        "format": "ONE_SHOT",
+        "countryOfOrigin": "JP",
+        "startDate": {
+          "year": 2020,
+          "month": 1,
+          "day": 27
+        },
+        "chapters": 1,
+        "volumes": null,
+        "averageScore": 76,
+        "siteUrl": "https://anilist.co/manga/115154"
+      },
+      {
+        "id": 137620,
+        "title": {
+          "romaji": "BLEACH Gokumeimeihen",
+          "english": "Bleach: Special One-Shot",
+          "native": "BLEACH 獄頤鳴鳴篇"
+        },
+        "description": "A new one-shot to celebrate Bleach's 20th anniversary.",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx137620-iUpSBs33kQOY.jpg",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx137620-iUpSBs33kQOY.jpg"
+        },
+        "genres": [
+          "Action",
+          "Adventure",
+          "Supernatural"
+        ],
+        "status": "FINISHED",
+        "format": "ONE_SHOT",
+        "countryOfOrigin": "JP",
+        "startDate": {
+          "year": 2021,
+          "month": 8,
+          "day": 10
+        },
+        "chapters": 1,
+        "volumes": null,
+        "averageScore": 78,
+        "siteUrl": "https://anilist.co/manga/137620"
+      },
+      {
+        "id": 103028,
+        "title": {
+          "romaji": "BURN THE WITCH",
+          "english": "Burn the Witch",
+          "native": "BURN THE WITCH"
+        },
+        "description": "Witches, dragons, and reverse London.\n<br><br>\n(Source: Anime News Network)\n<br><br>\n<i>Note: The one-shot was compiled in a special volume, released on December 9, 2018 as a bonus item for “BLEACH JET”, then later in the first volume of the proper serialization of the series as “Chapter 0.8”.</i>",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b103028-ZNdGLUFPtB6c.png",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b103028-ZNdGLUFPtB6c.png"
+        },
+        "genres": [
+          "Fantasy",
+          "Supernatural"
+        ],
+        "status": "FINISHED",
+        "format": "ONE_SHOT",
+        "countryOfOrigin": "JP",
+        "startDate": {
+          "year": 2018,
+          "month": 7,
+          "day": 14
+        },
+        "chapters": 1,
+        "volumes": null,
+        "averageScore": 66,
+        "siteUrl": "https://anilist.co/manga/103028"
+      },
+      {
+        "id": 112978,
+        "title": {
+          "romaji": "Amigara Dansou no Kai",
+          "english": "The Enigma of Amigara Fault",
+          "native": "阿彌殻断層の怪"
+        },
+        "description": "A short horror manga story by Junji Ito, printed as a bonus one-shot alongside his fish-zombie-apocalypse manga Gyo. A boy named Oowaki, and a girl, Yoshida, meet on Amigara Mountain, where an unsettling discovery has been made. Human shaped holes are scattered across the mountain, and it soon becomes clear that the holes are \"calling\" to the people they are shaped like. So what happens when they enter the hole? Well, you can be sure that massive amounts of claustrophobia and Nightmare Fuel are involved.",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b112978-6H9zO1ehuI5a.png",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b112978-6H9zO1ehuI5a.png"
+        },
+        "genres": [
+          "Horror",
+          "Mystery",
+          "Psychological",
+          "Supernatural"
+        ],
+        "status": "FINISHED",
+        "format": "ONE_SHOT",
+        "countryOfOrigin": "JP",
+        "startDate": {
+          "year": 2000,
+          "month": 12,
+          "day": 30
+        },
+        "chapters": 1,
+        "volumes": null,
+        "averageScore": 77,
+        "siteUrl": "https://anilist.co/manga/112978"
+      },
+      {
+        "id": 34941,
+        "title": {
+          "romaji": "DEATH NOTE C-Kira-hen",
+          "english": "Death Note: C-Kira",
+          "native": "DEATH NOTE Cキラ編"
+        },
+        "description": "A one-chapter sequel of the Death Note manga which tells what happened 3 years after it all ended.  The chapter was later published in volume format as a bonus in the Death Note: All-in-One Edition, then later in the volume “Death Note: Tanpenshuu”.",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx34941-PyMwAPm58T8m.jpg",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx34941-PyMwAPm58T8m.jpg"
+        },
+        "genres": [
+          "Mystery"
+        ],
+        "status": "FINISHED",
+        "format": "ONE_SHOT",
+        "countryOfOrigin": "JP",
+        "startDate": {
+          "year": 2007,
+          "month": 7,
+          "day": 2
+        },
+        "chapters": 1,
+        "volumes": null,
+        "averageScore": 65,
+        "siteUrl": "https://anilist.co/manga/34941"
+      },
+      {
+        "id": 105684,
+        "title": {
+          "romaji": "Machigatteita no wa Ore Dattan da.",
+          "english": null,
+          "native": "間違っていたのは俺だったんだ。"
+        },
+        "description": "A young man named Furuya contemplates the accidental death of his girlfriend, Sara.",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/n105684-kQEXJSKQuqxf.jpg",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/n105684-kQEXJSKQuqxf.jpg"
+        },
+        "genres": [
+          "Drama",
+          "Horror",
+          "Romance",
+          "Supernatural"
+        ],
+        "status": "FINISHED",
+        "format": "ONE_SHOT",
+        "countryOfOrigin": "JP",
+        "startDate": {
+          "year": 2018,
+          "month": 7,
+          "day": 18
+        },
+        "chapters": 1,
+        "volumes": null,
+        "averageScore": 70,
+        "siteUrl": "https://anilist.co/manga/105684"
+      },
+      {
+        "id": 86813,
+        "title": {
+          "romaji": "Komi-san wa Komyushou desu.",
+          "english": null,
+          "native": "古見さんはコミュ症です。"
+        },
+        "description": "Komi-san is the beautiful and admirable girl that no-one can take their eyes off her. Almost the whole school sees her as the cold beauty out of their league, but Tadano Shigeo knows the truth: she's just really bad at communicating with others.<br>\n<br>\nKomi-san, who wishes to fix this bad habit of hers, tries to improve it with the help of Tadano-kun.\n",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx86813-eJVaqTdKeJoE.png",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx86813-eJVaqTdKeJoE.png"
+        },
+        "genres": [
+          "Comedy"
+        ],
+        "status": "FINISHED",
+        "format": "ONE_SHOT",
+        "countryOfOrigin": "JP",
+        "startDate": {
+          "year": 2015,
+          "month": 9,
+          "day": 16
+        },
+        "chapters": 1,
+        "volumes": null,
+        "averageScore": 71,
+        "siteUrl": "https://anilist.co/manga/86813"
+      },
+      {
+        "id": 35461,
+        "title": {
+          "romaji": "the nightmare of fabrication",
+          "english": "Serial Experiments Lain: The Nightmare of Fabrication",
+          "native": "the nightmare of fabrication"
+        },
+        "description": "The Nightmare of Fabrication is a beautifully drawn full-color manga from Yoshitoshi ABe. The 18 page short story can be found in the Lain Omnipresence in Wired artbook. The manga serves as the missing \"Dc1029\" file from the game and appears to take place in the same continuity as the game, although there are elements of the anime as well.",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/5461.jpg",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/5461.jpg"
+        },
+        "genres": [
+          "Psychological"
+        ],
+        "status": "FINISHED",
+        "format": "ONE_SHOT",
+        "countryOfOrigin": "JP",
+        "startDate": {
+          "year": 1998,
+          "month": 3,
+          "day": null
+        },
+        "chapters": 1,
+        "volumes": null,
+        "averageScore": 72,
+        "siteUrl": "https://anilist.co/manga/35461"
+      },
+      {
+        "id": 143690,
+        "title": {
+          "romaji": "AMONG US",
+          "english": null,
+          "native": "AMONG US"
+        },
+        "description": "A one-shot adaptation of the video game of the same name.",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx143690-8DDyMdD7qCT5.jpg",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx143690-8DDyMdD7qCT5.jpg"
+        },
+        "genres": [
+          "Comedy",
+          "Sci-Fi"
+        ],
+        "status": "FINISHED",
+        "format": "ONE_SHOT",
+        "countryOfOrigin": "JP",
+        "startDate": {
+          "year": 2022,
+          "month": 2,
+          "day": 28
+        },
+        "chapters": 1,
+        "volumes": null,
+        "averageScore": 70,
+        "siteUrl": "https://anilist.co/manga/143690"
+      },
+      {
+        "id": 122342,
+        "title": {
+          "romaji": "Ao no Hako",
+          "english": null,
+          "native": "アオのハコ"
+        },
+        "description": "A boy from the volleyball team comes in early to the gym everyday, and falls in love with the senpai from the girl's basketball team who's always there practicing, too.",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx122342-50btLRhAOhsk.jpg",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx122342-50btLRhAOhsk.jpg"
+        },
+        "genres": [
+          "Romance",
+          "Sports"
+        ],
+        "status": "FINISHED",
+        "format": "ONE_SHOT",
+        "countryOfOrigin": "JP",
+        "startDate": {
+          "year": 2020,
+          "month": 8,
+          "day": 3
+        },
+        "chapters": 1,
+        "volumes": null,
+        "averageScore": 75,
+        "siteUrl": "https://anilist.co/manga/122342"
+      },
+      {
+        "id": 97600,
+        "title": {
+          "romaji": "Yogen no Nayuta",
+          "english": "Nayuta of the Prophecy",
+          "native": "予言のナユタ"
+        },
+        "description": "A tale about a prophecy involving a girl with horns who is said to bring destruction upon the world, and her brother.",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx97600-fEIZyenj4c1o.png",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx97600-fEIZyenj4c1o.png"
+        },
+        "genres": [
+          "Supernatural"
+        ],
+        "status": "FINISHED",
+        "format": "ONE_SHOT",
+        "countryOfOrigin": "JP",
+        "startDate": {
+          "year": 2015,
+          "month": 7,
+          "day": 4
+        },
+        "chapters": 1,
+        "volumes": null,
+        "averageScore": 72,
+        "siteUrl": "https://anilist.co/manga/97600"
+      },
+      {
+        "id": 103687,
+        "title": {
+          "romaji": "Yuusha Goikkou no Kaerimichi",
+          "english": null,
+          "native": "勇者ご一行の帰り道"
+        },
+        "description": "After their journey to defeat the Demon Lord ends, a group of heroes can finally go back home.\n",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/103687-uLLcfSr9SFxv.png",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/103687-uLLcfSr9SFxv.png"
+        },
+        "genres": [
+          "Adventure",
+          "Drama",
+          "Fantasy"
+        ],
+        "status": "FINISHED",
+        "format": "ONE_SHOT",
+        "countryOfOrigin": "JP",
+        "startDate": {
+          "year": 2018,
+          "month": 8,
+          "day": 2
+        },
+        "chapters": 1,
+        "volumes": null,
+        "averageScore": 78,
+        "siteUrl": "https://anilist.co/manga/103687"
+      },
+      {
+        "id": 165485,
+        "title": {
+          "romaji": "NARUTO Gaiden: Uzu no Naka no Tsumujikaze",
+          "english": "Naruto: The Whorl Within the Spiral",
+          "native": "NARUTO-ナルト-外伝 ～渦の中のつむじ風～"
+        },
+        "description": "The story of Namikaze Minato (Fourth Hokage), the winner of the world-wide popularity poll project NARUTOP99! Just how exactly did Minato, the father of Naruto, develop a certain jutsu...?\n<br><br>\n(Source: MANGA Plus)",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx165485-z0LYxfAY88Ff.jpg",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx165485-z0LYxfAY88Ff.jpg"
+        },
+        "genres": [
+          "Action",
+          "Romance"
+        ],
+        "status": "FINISHED",
+        "format": "ONE_SHOT",
+        "countryOfOrigin": "JP",
+        "startDate": {
+          "year": 2023,
+          "month": 7,
+          "day": 17
+        },
+        "chapters": 1,
+        "volumes": null,
+        "averageScore": 78,
+        "siteUrl": "https://anilist.co/manga/165485"
+      },
+      {
+        "id": 36408,
+        "title": {
+          "romaji": "BERSERK THE PROTOTYPE",
+          "english": "Berserk: The Prototype",
+          "native": "BERSERK THE PROTOTYPE"
+        },
+        "description": "The prototype chapter for <i>Berserk</i>, written by Kentarou Miura when he was a student. It was later collected in volume 14 of the main series.",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx36408-RXe0JkIEUDv8.jpg",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx36408-RXe0JkIEUDv8.jpg"
+        },
+        "genres": [
+          "Action",
+          "Adventure",
+          "Fantasy",
+          "Horror"
+        ],
+        "status": "FINISHED",
+        "format": "ONE_SHOT",
+        "countryOfOrigin": "JP",
+        "startDate": {
+          "year": 1988,
+          "month": 11,
+          "day": 26
+        },
+        "chapters": 1,
+        "volumes": null,
+        "averageScore": 72,
+        "siteUrl": "https://anilist.co/manga/36408"
+      },
+      {
+        "id": 85590,
+        "title": {
+          "romaji": "Henshin Ganbou!",
+          "english": null,
+          "native": "返信願望！"
+        },
+        "description": "Sunaki is a back-up player on the baseball team and he finally gets the courage to give a love letter to the idol of the school. Where will his actions take him?\n",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/55590.jpg",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/55590.jpg"
+        },
+        "genres": [
+          "Comedy",
+          "Romance",
+          "Sports"
+        ],
+        "status": "FINISHED",
+        "format": "ONE_SHOT",
+        "countryOfOrigin": "JP",
+        "startDate": {
+          "year": 2014,
+          "month": 8,
+          "day": 11
+        },
+        "chapters": 1,
+        "volumes": null,
+        "averageScore": 71,
+        "siteUrl": "https://anilist.co/manga/85590"
+      },
+      {
+        "id": 49423,
+        "title": {
+          "romaji": "Kishibe Rohan Louvre e Iku",
+          "english": "Rohan at the Louvre",
+          "native": "岸辺露伴 ルーヴルへ行く"
+        },
+        "description": "As Rohan, a young Japanese manga artist, is drawing, he meets a mysterious, beautiful woman who tells him of a cursed 200-year-old painting. The painting was created using the blackest ink ever known, which came from a 1,000-year-old tree that the painter had cut down without the approval of the Emperor. The painter was executed for this, but the painting was saved from destruction by a curator of the Louvre. A decade later, Rohan visits Paris and asks the museum to unearth the painting from deep within its archives&mdash;but he is completely unprepared for the power of the curse he has unleashed. <br><br>\n(Source: NBM Publishing)",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx49423-HOfH9EK94vUW.jpg",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx49423-HOfH9EK94vUW.jpg"
+        },
+        "genres": [
+          "Horror",
+          "Mystery",
+          "Psychological",
+          "Supernatural"
+        ],
+        "status": "FINISHED",
+        "format": "ONE_SHOT",
+        "countryOfOrigin": "JP",
+        "startDate": {
+          "year": 2011,
+          "month": 4,
+          "day": 19
+        },
+        "chapters": 1,
+        "volumes": 1,
+        "averageScore": 76,
+        "siteUrl": "https://anilist.co/manga/49423"
+      },
+      {
+        "id": 133104,
+        "title": {
+          "romaji": "Uzumaki Tokubetsu-hen: Ginga",
+          "english": "Lost Chapter: Galaxies",
+          "native": "うずまき特別編 銀河"
+        },
+        "description": "One night, Shuuichi Saitou reveals something incredible to his girlfriend, Kirie Goshima: he has recently discovered a new spiral-shaped galaxy. Filled with excitement, Kirie shares the news with her teacher, who invites his astronomer friend to confirm the discovery. The astronomer, Mr. Torino, is shocked at the existence of the galaxy and realizes that it will bring Shuuichi endless fame. The envious Torino, soon corrupted by the spiral, goes to great lengths to steal credit for Shuuichi's work. But this isn't the only new finding in Kurouzu-cho...\n<br><br>(Source: MAL Rewrite)",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b133104-ErJiAYEdT3Jr.png",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b133104-ErJiAYEdT3Jr.png"
+        },
+        "genres": [
+          "Horror",
+          "Psychological",
+          "Supernatural"
+        ],
+        "status": "FINISHED",
+        "format": "ONE_SHOT",
+        "countryOfOrigin": "JP",
+        "startDate": {
+          "year": 2000,
+          "month": 1,
+          "day": 31
+        },
+        "chapters": 1,
+        "volumes": null,
+        "averageScore": 66,
+        "siteUrl": "https://anilist.co/manga/133104"
+      },
+      {
+        "id": 101592,
+        "title": {
+          "romaji": "Imouto no Ane",
+          "english": "Sisters",
+          "native": "妹の姉"
+        },
+        "description": "Mitsuko is a third year at an art high school. In the hallway, she found a painting which had won the school competition and would be hung up for a whole year; a nude painting of herself done by her little sister, even though Mitsuko had never posed for her. About sibling who draw naked drawing of each other.",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx101592-2m7Q9MR9DKB5.jpg",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx101592-2m7Q9MR9DKB5.jpg"
+        },
+        "genres": [
+          "Comedy",
+          "Ecchi"
+        ],
+        "status": "FINISHED",
+        "format": "ONE_SHOT",
+        "countryOfOrigin": "JP",
+        "startDate": {
+          "year": 2018,
+          "month": 5,
+          "day": 2
+        },
+        "chapters": 1,
+        "volumes": null,
+        "averageScore": 66,
+        "siteUrl": "https://anilist.co/manga/101592"
+      },
+      {
+        "id": 95821,
+        "title": {
+          "romaji": "Berserk: Shinen no Kami 2",
+          "english": null,
+          "native": "ベルセルク 深淵の神②"
+        },
+        "description": "The chapter is a one-on-one conversation between Griffith and God.<br><br>\nIt was not published in volume format at Kentaro Miura's request, with his reason being that he felt that the chapter gave away too much information too early in the story.",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx95821-jqolk3XdH4xf.jpg",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx95821-jqolk3XdH4xf.jpg"
+        },
+        "genres": [],
+        "status": "FINISHED",
+        "format": "ONE_SHOT",
+        "countryOfOrigin": "JP",
+        "startDate": {
+          "year": 1996,
+          "month": 7,
+          "day": 12
+        },
+        "chapters": 1,
+        "volumes": null,
+        "averageScore": 80,
+        "siteUrl": "https://anilist.co/manga/95821"
+      },
+      {
+        "id": 63181,
+        "title": {
+          "romaji": "Hotel: since 2079",
+          "english": null,
+          "native": null
+        },
+        "description": "A computer continues to live on in order to complete a mission in a world where all life, including Mankind, has gone extinct. This is a record of those 27 million years of its heroic struggle.<br><br>\n(Source: Japanzai)",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/33181.jpg",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/33181.jpg"
+        },
+        "genres": [
+          "Drama",
+          "Sci-Fi"
+        ],
+        "status": "FINISHED",
+        "format": "ONE_SHOT",
+        "countryOfOrigin": "KR",
+        "startDate": {
+          "year": 2004,
+          "month": null,
+          "day": null
+        },
+        "chapters": 1,
+        "volumes": null,
+        "averageScore": 68,
+        "siteUrl": "https://anilist.co/manga/63181"
+      },
+      {
+        "id": 121031,
+        "title": {
+          "romaji": "Gambangeseo Namjajuingongeul Mannatseumnida",
+          "english": null,
+          "native": "감방에서 남자주인공을 만났습니다"
+        },
+        "description": "One day, I opened my eyes and found myself in... prison?!\n<br><br>\nThat's right. Out of all the characters I could've reincarnated into, I woke up inside a 19+ rated romance novel as the villain's younger sister. To make things even worse, I was locked up inside the infamous Kambrakam Prison for my brother's crimes.\n<br><br>\nDeep within the very same prison lies Henrich Doran von Hel, who's rumored to be suffering from a curse that turns him into a beast. In the original novel, he's supposed to meet the female lead and spend an interesting night with her here in prison... but of course, the plot's gone awry thanks to my existence. What kind of future lies in store for me now that I've gotten myself tangled up between the novel's greatest villain and its male lead?!\n<br><br>(Source: Kakao, translated)",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx121031-6BNuOLhZ3O2V.png",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx121031-6BNuOLhZ3O2V.png"
+        },
+        "genres": [
+          "Fantasy",
+          "Romance"
+        ],
+        "status": "FINISHED",
+        "format": "ONE_SHOT",
+        "countryOfOrigin": "KR",
+        "startDate": {
+          "year": 2019,
+          "month": 12,
+          "day": 4
+        },
+        "chapters": 1,
+        "volumes": null,
+        "averageScore": 63,
+        "siteUrl": "https://anilist.co/manga/121031"
+      },
+      {
+        "id": 123107,
+        "title": {
+          "romaji": "Gyemoinde, Ttari Neomu Gwiyeowo",
+          "english": null,
+          "native": "계모인데, 딸이 너무 귀여워"
+        },
+        "description": "An alternate retelling of Snow White with a reincarnated Stepmother…\n<br><br>\n<i>Note: This is a oneshot promotional webtoon for the novel.</i>\n",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx123107-6C84Jlqyy1xU.jpg",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx123107-6C84Jlqyy1xU.jpg"
+        },
+        "genres": [
+          "Comedy",
+          "Fantasy",
+          "Romance"
+        ],
+        "status": "FINISHED",
+        "format": "ONE_SHOT",
+        "countryOfOrigin": "KR",
+        "startDate": {
+          "year": 2019,
+          "month": 1,
+          "day": 11
+        },
+        "chapters": 1,
+        "volumes": null,
+        "averageScore": 65,
+        "siteUrl": "https://anilist.co/manga/123107"
+      },
+      {
+        "id": 126001,
+        "title": {
+          "romaji": "Aginim Kaesilo Lopan Dallinda",
+          "english": null,
+          "native": "아기님 캐시로 로판 달린다"
+        },
+        "description": "This is a promotional oneshot for a novel of the same name.\n<br>\nI lived suffering without a home, religion, or parents, but an angel appeared and reincarnated me.\n<br>\n\"You, a pro when it comes to romance fantasy novels, would you like to reincarnate in a world that was created based off of a romance fantasy novel?\"\n<br>\nI reincarnated because he said I would have a (handsome) dad and a (handsome) older brother who would spoon feed me, and even gift me a diamond mine, but… –I might be a child from my mother's affair? As soon as I was born, I was sent to my mother's household and fell into a family that deprives me.\n<br>\n\"If I stay like this, I might end up freezing or starving to death by myself!\"",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx126001-H1EdTVwVmhYI.jpg",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx126001-H1EdTVwVmhYI.jpg"
+        },
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Fantasy",
+          "Romance"
+        ],
+        "status": "FINISHED",
+        "format": "ONE_SHOT",
+        "countryOfOrigin": "KR",
+        "startDate": {
+          "year": 2020,
+          "month": 10,
+          "day": 10
+        },
+        "chapters": 1,
+        "volumes": null,
+        "averageScore": 62,
+        "siteUrl": "https://anilist.co/manga/126001"
+      },
+      {
+        "id": 121329,
+        "title": {
+          "romaji": "Hwangnyeonimi Saakasyeo",
+          "english": null,
+          "native": "황녀님이 사악하셔"
+        },
+        "description": "I’m a witch that’s over 300 years old, but I died at the hands of a human I’d trusted. I thought I’d be stuck in the spiritual world forever, but I reincarnated as the princess of a violent and bloody imperial family, where siblings would murder each other for the throne.\n<br><br>\nHonestly, at this rate, I should just become the next emperor. I’ll conquer the entire continent and attain my sweet revenge on Lacuz. And so, I turned to evil and wicked ways, as befitting my role as a witch. I even won over the princes with my overwhelming strength. So I thought that everyone would fear me, but… <br>\n<br>\n(Source: Kakao, translated and edited)<br>\n<br>\n<i>Note: Promotional one-shot for the homonym web novel. </i>",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx121329-fiqMA8HpRFua.jpg",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx121329-fiqMA8HpRFua.jpg"
+        },
+        "genres": [
+          "Fantasy",
+          "Romance"
+        ],
+        "status": "FINISHED",
+        "format": "ONE_SHOT",
+        "countryOfOrigin": "KR",
+        "startDate": {
+          "year": 2020,
+          "month": 5,
+          "day": 14
+        },
+        "chapters": 1,
+        "volumes": null,
+        "averageScore": 63,
+        "siteUrl": "https://anilist.co/manga/121329"
+      },
+      {
+        "id": 119597,
+        "title": {
+          "romaji": "Jipchang Seobeu Namjureul Kiwotseumnida",
+          "english": null,
+          "native": "집착 서브 남주를 키웠습니다"
+        },
+        "description": "Senna died and reincarnated into a 10 years old villainess in the novel she read in her past life, Yurina. However, the ending of Yurina is that she died at the hand of Charrion, the second male lead. Wanting to avoid the death flag, Yurina decides to met with Charrion first before the heroine and build his trust in her so the death flag won’t be triggered. But she ended up raising a yandere.<br><br>\n(Source: Kakao, translated)\n<br><br>\n<i>Note: This is a promotional one-shot for the web novel of the same name.</i>",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx119597-nmzxiY0GHtnA.jpg",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx119597-nmzxiY0GHtnA.jpg"
+        },
+        "genres": [
+          "Drama",
+          "Fantasy",
+          "Romance"
+        ],
+        "status": "FINISHED",
+        "format": "ONE_SHOT",
+        "countryOfOrigin": "KR",
+        "startDate": {
+          "year": 2018,
+          "month": 12,
+          "day": 24
+        },
+        "chapters": 1,
+        "volumes": null,
+        "averageScore": 61,
+        "siteUrl": "https://anilist.co/manga/119597"
+      },
+      {
+        "id": 121332,
+        "title": {
+          "romaji": "Akdang Daegongnimui Gwihadigwihan Yeodongsaeng",
+          "english": null,
+          "native": "악당 대공님의 귀하디귀한 여동생"
+        },
+        "description": "I became the sister of the villain, who shed no blood or tears in a war-ridden novel! I thought I was born again as the youngest daughter of a noble family, but I'm the little sister of a villain who's only being used!\n<br><br>\nA baby's body too fragile to survive in the Lagrange household, a brutal family that makes children fight for successors... I've decided to stick to the villain in order to live!\n<br><br>\nI need you to be my guardian until I run away from here. Raise me, villain!",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx121332-ZiHYLEBKYdoK.jpg",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx121332-ZiHYLEBKYdoK.jpg"
+        },
+        "genres": [
+          "Fantasy",
+          "Romance"
+        ],
+        "status": "FINISHED",
+        "format": "ONE_SHOT",
+        "countryOfOrigin": "KR",
+        "startDate": {
+          "year": 2020,
+          "month": 1,
+          "day": 31
+        },
+        "chapters": 1,
+        "volumes": null,
+        "averageScore": 61,
+        "siteUrl": "https://anilist.co/manga/121332"
+      },
+      {
+        "id": 123206,
+        "title": {
+          "romaji": "Neoui Aiga Aniya",
+          "english": null,
+          "native": "너의 아이가 아니야"
+        },
+        "description": "Kalia is a war hero and commander that put an end to the past war. But one day, she finds out that she's... pregnant?! Of all people, the father of the baby is Simon Terroan, her best friend and archmage, whom she spent a single passionate night with.\n<br><br>\nBelieving that Simon doesn't want the baby, Kalia hides the truth of her pregnancy, then retires from her job and disappears while Simon is away in order to have her baby. But the truth is that Simon has loved Kalia, more than anyone else. And so, the frantic search for her begins.\n<br><br>\n<i>Note: This is a promotional one-shot for the web novel of the same name.</i>",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx123206-8ag2V38jo4MA.jpg",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx123206-8ag2V38jo4MA.jpg"
+        },
+        "genres": [
+          "Fantasy",
+          "Romance"
+        ],
+        "status": "FINISHED",
+        "format": "ONE_SHOT",
+        "countryOfOrigin": "KR",
+        "startDate": {
+          "year": 2019,
+          "month": 12,
+          "day": 25
+        },
+        "chapters": 1,
+        "volumes": null,
+        "averageScore": 67,
+        "siteUrl": "https://anilist.co/manga/123206"
+      },
+      {
+        "id": 142432,
+        "title": {
+          "romaji": "Jaeanggeum Yeongungnimi Gwihwanhasyeotda",
+          "english": null,
+          "native": "재앙급 영웅님이 귀환하셨다"
+        },
+        "description": null,
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx142432-1N3F3Ji1NuF6.png",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx142432-1N3F3Ji1NuF6.png"
+        },
+        "genres": [
+          "Action",
+          "Fantasy",
+          "Supernatural"
+        ],
+        "status": "FINISHED",
+        "format": "ONE_SHOT",
+        "countryOfOrigin": "KR",
+        "startDate": {
+          "year": 2019,
+          "month": 8,
+          "day": 13
+        },
+        "chapters": 1,
+        "volumes": null,
+        "averageScore": 63,
+        "siteUrl": "https://anilist.co/manga/142432"
+      },
+      {
+        "id": 123100,
+        "title": {
+          "romaji": "Muhyeopji Choego Akdangui Gwihan Ttarimnida",
+          "english": null,
+          "native": "무협지 최고 악당의 귀한 딸입니다"
+        },
+        "description": "I thought I was reincarnated as the daughter of a wealthy family, but it turns out I was born as the child of the greatest villain in the fantasy world of martial arts. My father doesn't care about me, I'm ostracized by the others, and I'll eventually be murdered as a side antagonist by the male lead, after suffering from my one-sided love.\n<br><br>\nEven worse, this is a world where the weak are the prey of the strong, conceited antagonists.\n<br><br>\nSo, before it's late, I need to learn martial arts and escape!\n<br><br>\nHowever, there was a fatal flaw in my plan...\n<br><br>\nBecause of my notorious father, there were too many people who sought to end my life.\n<br><br>\n\"Wahhh! Dadda! (Daddy!)\"\n<br><br>\n...Will I ever be able to escape safely?\n<br><br>\n<b>Note</b>: This is a promotional one shot manhwa for the novel\n<br><br>\n(Source: Korean publisher, translated)",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx123100-kk22gIL0df4Y.jpg",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx123100-kk22gIL0df4Y.jpg"
+        },
+        "genres": [
+          "Fantasy",
+          "Romance"
+        ],
+        "status": "FINISHED",
+        "format": "ONE_SHOT",
+        "countryOfOrigin": "KR",
+        "startDate": {
+          "year": 2019,
+          "month": 12,
+          "day": 31
+        },
+        "chapters": 1,
+        "volumes": null,
+        "averageScore": 61,
+        "siteUrl": "https://anilist.co/manga/123100"
+      },
+      {
+        "id": 128900,
+        "title": {
+          "romaji": "Akdanggwa Gyeyang Gajogi Doeeotda",
+          "english": null,
+          "native": "악당과 계약 가족이 되었다"
+        },
+        "description": "<i>Note: Promotional prologue for the homonym web novel.</i>",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx128900-lK6H3PIQ3emS.png",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx128900-lK6H3PIQ3emS.png"
+        },
+        "genres": [
+          "Romance"
+        ],
+        "status": "FINISHED",
+        "format": "ONE_SHOT",
+        "countryOfOrigin": "KR",
+        "startDate": {
+          "year": 2020,
+          "month": 7,
+          "day": 29
+        },
+        "chapters": 1,
+        "volumes": null,
+        "averageScore": 66,
+        "siteUrl": "https://anilist.co/manga/128900"
+      },
+      {
+        "id": 121680,
+        "title": {
+          "romaji": "Appa, Na I Gyeolhon An Hallaeyo!",
+          "english": null,
+          "native": "아빠, 나 이 결혼 안 할래요!"
+        },
+        "description": "Juvelian is a villainess so hated by everyone that even her lover and father leave her to die a pitiful death. Just as she’s about to face her fate, she gets the chance to change the course of her story. In order to avoid the tragic end she knows awaits her, she breaks up with her lover and gives up trying to win her father’s love. Instead, she focuses on using his wealth to enjoy her new life to its fullest! But while she prepares for her extravagant life as a lady, her father begins looking for her new suitor. Afraid that he’ll marry her off to the infamously unpredictable and stormy prince, she lands on a desperate solution: a dating contract. And the best candidate is none other than her father’s student. <br><br>\n(Source: Tappytoon)",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx121680-qPHo1qpdLZfq.jpg",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx121680-qPHo1qpdLZfq.jpg"
+        },
+        "genres": [
+          "Drama",
+          "Fantasy",
+          "Romance"
+        ],
+        "status": "FINISHED",
+        "format": "ONE_SHOT",
+        "countryOfOrigin": "KR",
+        "startDate": {
+          "year": 2019,
+          "month": 3,
+          "day": 25
+        },
+        "chapters": 1,
+        "volumes": null,
+        "averageScore": 63,
+        "siteUrl": "https://anilist.co/manga/121680"
+      },
+      {
+        "id": 121110,
+        "title": {
+          "romaji": "Agdangdeuleul Wihan Donghwa",
+          "english": null,
+          "native": "악당들을 위한 동화"
+        },
+        "description": "Despite being born as the daughter of a nanny, I considered myself blessed. With my loving mother, caring masters, and their three children, I couldn’t have asked for a better life.\n<br><br>\nHowever, this all changed during the year my mother and masters died of a plague. That was when I remembered who I was before this life.\n<br><br>\nSomehow, I was reincarnated as a side character of an angsty reverse harem romance novel. The problem was that I was the final boss in this novel, the queen of snakes who uses the young masters, the future main villains, to send the Empire to ruin.\n<br><br>\nI knew what I wanted to protect, at all costs.\n",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx121110-Lrgsz4sn7Uou.jpg",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx121110-Lrgsz4sn7Uou.jpg"
+        },
+        "genres": [
+          "Drama",
+          "Fantasy"
+        ],
+        "status": "FINISHED",
+        "format": "ONE_SHOT",
+        "countryOfOrigin": "KR",
+        "startDate": {
+          "year": 2019,
+          "month": 1,
+          "day": 21
+        },
+        "chapters": 1,
+        "volumes": null,
+        "averageScore": 61,
+        "siteUrl": "https://anilist.co/manga/121110"
+      },
+      {
+        "id": 123080,
+        "title": {
+          "romaji": "Pogguneur Girdeurigo Domachyeobeoryeossda",
+          "english": null,
+          "native": "폭군을 길들이고 도망쳐버렸다"
+        },
+        "description": "God gave me a chance to relive my life. Before the rebirth, I had been used for the past 400 years as the empire's sword. And so, I swore to destroy the empire. I found the young prince of the country and became his teacher. I taught him how to become a tyrant and asked for the country. <br>\n<br>\n\"I will do the lady's will.\"<br>\n<br>\nHe conquered the whole empire for me, and I ran away.<br>\n<br>\n\"I came to take you, Charlize Ronan.\" Dylan became a perfect tyrant and searched the entire empire for me.<br>\n<br>\n\"You tamed me, so why did you run away?\"\n",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx123080-F5HdXuLHMMDm.jpg",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx123080-F5HdXuLHMMDm.jpg"
+        },
+        "genres": [
+          "Fantasy",
+          "Romance"
+        ],
+        "status": "FINISHED",
+        "format": "ONE_SHOT",
+        "countryOfOrigin": "KR",
+        "startDate": {
+          "year": 2019,
+          "month": 2,
+          "day": 22
+        },
+        "chapters": 1,
+        "volumes": null,
+        "averageScore": 59,
+        "siteUrl": "https://anilist.co/manga/123080"
+      },
+      {
+        "id": 123205,
+        "title": {
+          "romaji": "Yeojuege Beoryeojin Akdangeul Guhaneun Bangbeop",
+          "english": null,
+          "native": "여주에게 버려진 악당을 구하는 방법"
+        },
+        "description": "I tried to save the sub male lead, who was poisoned by the female lead, but an accident happened! He said he would repay the favor, but he randomly sent me to the most notorious villain, the Family of Assassins?!\n<br><br>\nThe family that consists of the oldest brother, a knight in the Imperial Army preparing for a revolt, the second brother, a reverend with a large bounty on his head, and a father who is the greatest villain of all time...\n<br><br>\nWill I be safe in this villainous family throughout my three-year contract?\n<br><br>\n<i>Note: Promotional prologue for the homonym web novel.</i>",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b123205-K5TUInzgl4l0.jpg",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b123205-K5TUInzgl4l0.jpg"
+        },
+        "genres": [
+          "Fantasy",
+          "Romance"
+        ],
+        "status": "FINISHED",
+        "format": "ONE_SHOT",
+        "countryOfOrigin": "KR",
+        "startDate": {
+          "year": 2019,
+          "month": 1,
+          "day": 25
+        },
+        "chapters": 1,
+        "volumes": null,
+        "averageScore": 58,
+        "siteUrl": "https://anilist.co/manga/123205"
+      },
+      {
+        "id": 136173,
+        "title": {
+          "romaji": "Huhoe Gwanggongui Yeodongsaengi Doeeotda",
+          "english": null,
+          "native": "후회 광공의 여동생이 되었다"
+        },
+        "description": "I’ve transmigrated into the world of the BL webtoon \"In The House of Dolls, There’s Another Doll Living There\" where I left my one and only spiteful comment. On top of that, I become the adopted younger sister of my favorite character: the obsessive male lead who is later regretful for his actions but still dies along with the duke in the end.\n<br><br>\nSo, I was determined. Since I have transmigrated into this world, I can’t stand by and watch my favorite character die. Additionally, I also don’t want to die. That’s why, author, I'll need to change the tags and the ending of this webtoon slightly! From \"Obsessive Male lead\" to \"Considerate Male Lead\". From \"Sad Ending\" to \"Happy Ending\".\n<br><br>\n(Source: Kakao, translated)\n<br><br>\n<I>Note: This is a promotional manhwa for the web novel of the same name.</I>",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx136173-Eq1t8y1kHQ09.jpg",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx136173-Eq1t8y1kHQ09.jpg"
+        },
+        "genres": [
+          "Fantasy",
+          "Romance"
+        ],
+        "status": "FINISHED",
+        "format": "ONE_SHOT",
+        "countryOfOrigin": "KR",
+        "startDate": {
+          "year": 2021,
+          "month": 2,
+          "day": 4
+        },
+        "chapters": 1,
+        "volumes": null,
+        "averageScore": 60,
+        "siteUrl": "https://anilist.co/manga/136173"
+      },
+      {
+        "id": 123213,
+        "title": {
+          "romaji": "Agnyeo Maker",
+          "english": null,
+          "native": "악녀 메이커"
+        },
+        "description": "Promotional prologue for the homonym web novel.",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b123213-wyOYmQVjBLT8.jpg",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b123213-wyOYmQVjBLT8.jpg"
+        },
+        "genres": [
+          "Drama",
+          "Fantasy",
+          "Romance"
+        ],
+        "status": "FINISHED",
+        "format": "ONE_SHOT",
+        "countryOfOrigin": "KR",
+        "startDate": {
+          "year": 2018,
+          "month": 3,
+          "day": 22
+        },
+        "chapters": 1,
+        "volumes": null,
+        "averageScore": 61,
+        "siteUrl": "https://anilist.co/manga/123213"
+      },
+      {
+        "id": 121336,
+        "title": {
+          "romaji": "Jipchang Seobeu Namjuga Michyeo Nalttwinda",
+          "english": null,
+          "native": "집착 서브 남주가 미쳐 날뛴다"
+        },
+        "description": "I remember the story of a novel I had read in my previous life just before my marriage. If you don’t mess up the wedding, you’ll be poisoned by your husband! So I just kissed the pastor who was in charge of the ceremony.\n<br><br>\n<i>\"Commander, are you alright?\"</i>\n<br><br>\nOne of the holy knights shouted as he approached the pastor who was kissed.\n<br><br>\n<i>\"Huh, what?\"<br>\n\"Wait... are you the commander of the Holy Knights?\"</i>\n<br><br>\n****\n<br><br>\nRurutia, who was about to die, wanted to spend her last moment in a temple where she felt at ease the most. She started a business with her friends for the temple, and it was a big hit.\n<br><br>\n<i>\"Miss, you have the world in the palm of your hands!\"<br>\n\"Are you a God who descended to earth?\"</i>\n<br><br>\nIn the midst of being embarrassed by the large crown, the commander of the holy knights himself was also acting strange.\n<br><br>\n<i>“All I wish for is to be your husband.”, </i>he said that with eyes shining with obsession.<br>\n<i>\"Take responsibility for stealing my first kiss.\"</i>\n<br><br>\nThis is all so wrong. It seems that I changed my future.\n",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b121336-C9sl1T4OZjRd.png",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b121336-C9sl1T4OZjRd.png"
+        },
+        "genres": [
+          "Fantasy",
+          "Romance"
+        ],
+        "status": "FINISHED",
+        "format": "ONE_SHOT",
+        "countryOfOrigin": "KR",
+        "startDate": {
+          "year": 2020,
+          "month": 6,
+          "day": 26
+        },
+        "chapters": 1,
+        "volumes": null,
+        "averageScore": 60,
+        "siteUrl": "https://anilist.co/manga/121336"
+      },
+      {
+        "id": 121633,
+        "title": {
+          "romaji": "Nampyeoneun Dwaetgo, Donina Beollyeomnida",
+          "english": null,
+          "native": "남편은 됐고, 돈이나 벌렵니다"
+        },
+        "description": "I became the wife of a man who already had a lover.<br>\nSo, I should do my best to help him remain faithful to her, right?<br>\n<br>\nBut how did I end up destroying the bed with him on our first night together...?<br>\n<br>\n***<br>\n<br>\nAristine is a royal princess who's been confined all her life, as she is highly disfavored by the emperor.<br>\nBut the truth is, as the possessor of the [Royal Sight], she can see the past, present, and future.<br>\n<br>\nThe emperor sends her off to die in a political marriage arranged with the prince of their enemy country, rumored to be a bloodthirsty savage, but...<br>\nHer soon-to-be husband, the so-called \"savage,\" is far more normal than the rumors suggest.<br>\n<br>\n\"Still, he's taken, so he's off-limits for me. I'll just focus on making lots of money from now on!\"<br>\n<br>\nWill Aristine be able to fulfill her dream of living a luxurious, wealthy life?<br>\nOr will she be able to kill two birds with one stone and win over her husband as well?<br>\n<br>\n(Source: Korean publisher, translated)",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx121633-UUTdF2u5NKqj.jpg",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx121633-UUTdF2u5NKqj.jpg"
+        },
+        "genres": [
+          "Comedy",
+          "Fantasy",
+          "Romance"
+        ],
+        "status": "FINISHED",
+        "format": "ONE_SHOT",
+        "countryOfOrigin": "KR",
+        "startDate": {
+          "year": 2019,
+          "month": 4,
+          "day": 12
+        },
+        "chapters": 1,
+        "volumes": null,
+        "averageScore": 60,
+        "siteUrl": "https://anilist.co/manga/121633"
+      },
+      {
+        "id": 201721,
+        "title": {
+          "romaji": "Gongjakgaui Yeokdaegeup Sindong",
+          "english": null,
+          "native": "공작가의 역대급 신동"
+        },
+        "description": "<i>Note: This is a promotional one-shot for the web novel of the same name.</i>",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx201721-FtjAZ0RcPDn6.png",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx201721-FtjAZ0RcPDn6.png"
+        },
+        "genres": [
+          "Action",
+          "Fantasy"
+        ],
+        "status": "FINISHED",
+        "format": "ONE_SHOT",
+        "countryOfOrigin": "KR",
+        "startDate": {
+          "year": 2019,
+          "month": 8,
+          "day": 8
+        },
+        "chapters": 1,
+        "volumes": null,
+        "averageScore": 54,
+        "siteUrl": "https://anilist.co/manga/201721"
+      },
+      {
+        "id": 121337,
+        "title": {
+          "romaji": "Agineun Akdangeul Kiunda",
+          "english": null,
+          "native": "아기는 악당을 키운다"
+        },
+        "description": "Lablaine had already lived her life three times, and was now living it again. Due to a misinterpretation of an oracle, she had been raised as a \"Child of Fate\" and was asked to choose a guardian. During the first time she lived her life, she lived in a strict knight's household, but when the real \"Child of Fate\" appeared, she was sacrificed as a scapegoat for them. During the second time, she was abused by an outwardly respectable scholar; the third time, she ran away and lived as a beggar. Since the country seems to not be safe for her, she decided to leave it this time. To that end she chose …a family of the biggest and coldest villains in the kingdom. She just tried to get along with them for the time being, but her family has turned out to be absurdly overprotective and doting?!\n",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx121337-Xi9Ws1AfanyR.jpg",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx121337-Xi9Ws1AfanyR.jpg"
+        },
+        "genres": [
+          "Action",
+          "Adventure",
+          "Drama"
+        ],
+        "status": "FINISHED",
+        "format": "ONE_SHOT",
+        "countryOfOrigin": "KR",
+        "startDate": {
+          "year": 2019,
+          "month": 10,
+          "day": 18
+        },
+        "chapters": 1,
+        "volumes": null,
+        "averageScore": 58,
+        "siteUrl": "https://anilist.co/manga/121337"
+      },
+      {
+        "id": 123068,
+        "title": {
+          "romaji": "Akdang Appareul Ibyanghaetda",
+          "english": null,
+          "native": "악당 아빠를 입양했다"
+        },
+        "description": "I entered a novel in which the heroine who reincarnated as a saintess has to walk on a thorny path. ‘Yeah, nope!’ I, who decided to walk on a flower path, abandoned the original frustrating family and adopted my bias as my dad in our first meeting.\n<br><br>\n“You, be my daddy!” The story’s final boss and villain! But now he’s just my dad. Fufu. “Daddy, why is your name also daddy? So cute.”\n<br><br>\n“What did you eat for breakfast? Handsomeness?” {a pun that I’m too lazy to explain} As I dream of a happy ending for Daddy, there’s just one more huge obstacle… The existence of the hero who would kill the final boss. Now that it’s come to this, let’s save my bias and the hero as an addition! If I have time, maybe the world too! However…\n<br><br>\n“I’ll kill you if you approach my daughter.” …Daddy keeps on raising the death flags. “You should take responsibility since you tamed me.” Somehow the hero is also obsessed over me, just what’s going on…?\n<br><br>\n<i>Note: This is a one shot promotional manhwa for the novel of the same name.</i>\n",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx123068-weWS7uBwZeU9.jpg",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx123068-weWS7uBwZeU9.jpg"
+        },
+        "genres": [
+          "Drama",
+          "Fantasy",
+          "Romance"
+        ],
+        "status": "FINISHED",
+        "format": "ONE_SHOT",
+        "countryOfOrigin": "KR",
+        "startDate": {
+          "year": 2020,
+          "month": 3,
+          "day": 27
+        },
+        "chapters": 1,
+        "volumes": null,
+        "averageScore": 59,
+        "siteUrl": "https://anilist.co/manga/123068"
+      },
+      {
+        "id": 121203,
+        "title": {
+          "romaji": "Naneun Namjuui Jeon Yeochinieotda",
+          "english": null,
+          "native": "나는 남주의 전 여친이었다"
+        },
+        "description": "I am the villainess in a harem novel. My role as \"Erika\" is to be an evil ex-girlfriend. I don't want to be a dumb villainess, so I broke up with the male-lead first... But after 3 years, Leo came back to me.\n\"I can't live without you. I still like you...\"\nI'm not the girl you should be obsessed with?! The second leads also came to me\n\"I like it when you're next to me...\"\nI'm just a supporting villainess, yet why are all these men confessing to me?! Who should I choose?\n<br><br>\n(Source: Kakao, translated)",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx121203-4rfYMU7teCQ1.jpg",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx121203-4rfYMU7teCQ1.jpg"
+        },
+        "genres": [
+          "Fantasy",
+          "Romance"
+        ],
+        "status": "FINISHED",
+        "format": "ONE_SHOT",
+        "countryOfOrigin": "KR",
+        "startDate": {
+          "year": 2019,
+          "month": 6,
+          "day": 28
+        },
+        "chapters": 1,
+        "volumes": null,
+        "averageScore": 59,
+        "siteUrl": "https://anilist.co/manga/121203"
+      },
+      {
+        "id": 127072,
+        "title": {
+          "romaji": "Bugbu Gongjagnim-eul Yuhoghagessseubnida",
+          "english": null,
+          "native": "북부 공작님을 유혹하겠습니다"
+        },
+        "description": "Selena, the top star that had the entire world's attention, was suddenly warped to Northern Duke's land during an accident while filming.Kalcion, the Northern Duke that saved her from the infernal beasts, offers Selena a chance to go back home in return for collecting information in various social circles by pretending to be his lover. Selena quickly accepts Kalcion's offer, but... There was a critical problem. The Northern Duke's acting skills are horrible! And thus the contractual relationship between the two started. Will Kalcion's acting skill improve first, or will he start to have true feelings for Selena instead?",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx127072-77iRs6iitnbG.jpg",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx127072-77iRs6iitnbG.jpg"
+        },
+        "genres": [
+          "Fantasy",
+          "Romance"
+        ],
+        "status": "FINISHED",
+        "format": "ONE_SHOT",
+        "countryOfOrigin": "KR",
+        "startDate": {
+          "year": 2020,
+          "month": 6,
+          "day": 26
+        },
+        "chapters": 1,
+        "volumes": null,
+        "averageScore": 57,
+        "siteUrl": "https://anilist.co/manga/127072"
+      },
+      {
+        "id": 131215,
+        "title": {
+          "romaji": "Akdangman Chwigeupamnida",
+          "english": null,
+          "native": "악당만 취급합니다"
+        },
+        "description": "<i>Note: This is a promotional one-shot for the web novel of the same name.</i>",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx131215-OLzAzQXabTkn.jpg",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx131215-OLzAzQXabTkn.jpg"
+        },
+        "genres": [
+          "Drama",
+          "Fantasy",
+          "Romance"
+        ],
+        "status": "FINISHED",
+        "format": "ONE_SHOT",
+        "countryOfOrigin": "KR",
+        "startDate": {
+          "year": 2021,
+          "month": 1,
+          "day": 2
+        },
+        "chapters": 1,
+        "volumes": null,
+        "averageScore": 63,
+        "siteUrl": "https://anilist.co/manga/131215"
+      },
+      {
+        "id": 86223,
+        "title": {
+          "romaji": "Ai de Birerong",
+          "english": null,
+          "native": "爱的比热容"
+        },
+        "description": "A girl goes to the seaside on her class field trip and accidentally meets a mysterious handsome boy, after talking, she hears a dramatic story about a bird and fish, finally the kind girl decides to help the bird fulfill its last wish.",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/56223-tCBoXxYgnO2a.jpg",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/56223-tCBoXxYgnO2a.jpg"
+        },
+        "genres": [
+          "Romance",
+          "Slice of Life"
+        ],
+        "status": "FINISHED",
+        "format": "ONE_SHOT",
+        "countryOfOrigin": "CN",
+        "startDate": {
+          "year": 2012,
+          "month": null,
+          "day": null
+        },
+        "chapters": 1,
+        "volumes": null,
+        "averageScore": 70,
+        "siteUrl": "https://anilist.co/manga/86223"
+      },
+      {
+        "id": 73727,
+        "title": {
+          "romaji": "Wings",
+          "english": null,
+          "native": "WINGS"
+        },
+        "description": "A very short (poetic) oneshot about breaking free.<br><br>\n(Source: Chinatown KM)",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/43727.jpg",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/43727.jpg"
+        },
+        "genres": [
+          "Psychological"
+        ],
+        "status": "FINISHED",
+        "format": "ONE_SHOT",
+        "countryOfOrigin": "CN",
+        "startDate": {
+          "year": 2003,
+          "month": null,
+          "day": null
+        },
+        "chapters": 1,
+        "volumes": null,
+        "averageScore": 49,
+        "siteUrl": "https://anilist.co/manga/73727"
+      },
+      {
+        "id": 98456,
+        "title": {
+          "romaji": "Daguanjia",
+          "english": null,
+          "native": "大管家"
+        },
+        "description": "After the death of his mother, his younger brother keeps bullying him. A short story about family from Tan Jiu.\n",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b98456-yh0SGambzJf2.jpg",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b98456-yh0SGambzJf2.jpg"
+        },
+        "genres": [
+          "Drama",
+          "Slice of Life"
+        ],
+        "status": "FINISHED",
+        "format": "ONE_SHOT",
+        "countryOfOrigin": "CN",
+        "startDate": {
+          "year": 2010,
+          "month": null,
+          "day": null
+        },
+        "chapters": 1,
+        "volumes": null,
+        "averageScore": 56,
+        "siteUrl": "https://anilist.co/manga/98456"
+      },
+      {
+        "id": 111021,
+        "title": {
+          "romaji": "Hai Zi",
+          "english": null,
+          "native": "海子"
+        },
+        "description": "Yuzi's grandfather is getting old. He can't run his restaurant properly anymore. The clientele is getting scarce.<br>\nYet Yuzi is passionate about cooking. He likes good products and often innovates. But his dishes are not appreciated.<br>\nThe young man becomes embittered and aggressive, convinced that one day the whole world will jostle to taste his cooking.<br>\nOne day two strange visitors enter his inn...",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx111021-6QHRNtTGUDeF.png",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx111021-6QHRNtTGUDeF.png"
+        },
+        "genres": [
+          "Adventure",
+          "Fantasy"
+        ],
+        "status": "FINISHED",
+        "format": "ONE_SHOT",
+        "countryOfOrigin": "CN",
+        "startDate": {
+          "year": 2013,
+          "month": 12,
+          "day": 1
+        },
+        "chapters": 1,
+        "volumes": null,
+        "averageScore": 60,
+        "siteUrl": "https://anilist.co/manga/111021"
+      },
+      {
+        "id": 53749,
+        "title": {
+          "romaji": "Dongri Tonghua",
+          "english": null,
+          "native": "冬日童话"
+        },
+        "description": "A story about a snow princess created by humans.",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx53749-1j9cYzZm5z9J.jpg",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx53749-1j9cYzZm5z9J.jpg"
+        },
+        "genres": [
+          "Fantasy"
+        ],
+        "status": "FINISHED",
+        "format": "ONE_SHOT",
+        "countryOfOrigin": "CN",
+        "startDate": {
+          "year": 2001,
+          "month": null,
+          "day": null
+        },
+        "chapters": 1,
+        "volumes": null,
+        "averageScore": 53,
+        "siteUrl": "https://anilist.co/manga/53749"
+      },
+      {
+        "id": 44712,
+        "title": {
+          "romaji": "Pieces of You",
+          "english": null,
+          "native": "片你"
+        },
+        "description": "A short story filled with the dark truths about adulthood and society. How would you face the reality when you know you are trapped in its cycle and routine?<br><br>\n",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/14712.jpg",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/14712.jpg"
+        },
+        "genres": [
+          "Psychological",
+          "Slice of Life"
+        ],
+        "status": "FINISHED",
+        "format": "ONE_SHOT",
+        "countryOfOrigin": "CN",
+        "startDate": {
+          "year": 2004,
+          "month": null,
+          "day": null
+        },
+        "chapters": 1,
+        "volumes": null,
+        "averageScore": 48,
+        "siteUrl": "https://anilist.co/manga/44712"
+      },
+      {
+        "id": 115813,
+        "title": {
+          "romaji": "Luo Sha Li San",
+          "english": null,
+          "native": "罗刹李三"
+        },
+        "description": "A man and his companion roam around completing small tasks for coin. This time, they have a request from the lord of Wei Manor.\n",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx115813-COGhcLeDkKme.jpg",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx115813-COGhcLeDkKme.jpg"
+        },
+        "genres": [
+          "Action"
+        ],
+        "status": "FINISHED",
+        "format": "ONE_SHOT",
+        "countryOfOrigin": "CN",
+        "startDate": {
+          "year": 2019,
+          "month": null,
+          "day": null
+        },
+        "chapters": 1,
+        "volumes": null,
+        "averageScore": 55,
+        "siteUrl": "https://anilist.co/manga/115813"
+      },
+      {
+        "id": 98455,
+        "title": {
+          "romaji": "Yuanyi",
+          "english": null,
+          "native": "园艺"
+        },
+        "description": "A boy discovers that his bonsai has a human form.\n",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b98455-HQpP0zXwmCd2.jpg",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b98455-HQpP0zXwmCd2.jpg"
+        },
+        "genres": [
+          "Comedy",
+          "Slice of Life"
+        ],
+        "status": "FINISHED",
+        "format": "ONE_SHOT",
+        "countryOfOrigin": "CN",
+        "startDate": {
+          "year": 2012,
+          "month": null,
+          "day": null
+        },
+        "chapters": 1,
+        "volumes": null,
+        "averageScore": null,
+        "siteUrl": "https://anilist.co/manga/98455"
+      },
+      {
+        "id": 52696,
+        "title": {
+          "romaji": "Leave",
+          "english": null,
+          "native": null
+        },
+        "description": "A little little love story.<br>\nLeave, an incurable illness.<br><br>\nA story about a man dealing with the issue of insecurity and abandonment. To leave and to be left behind, are they the same?<br><br>\n",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b52696-Uug2jFT3EaCc.jpg",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b52696-Uug2jFT3EaCc.jpg"
+        },
+        "genres": [
+          "Drama",
+          "Romance"
+        ],
+        "status": "FINISHED",
+        "format": "ONE_SHOT",
+        "countryOfOrigin": "CN",
+        "startDate": {
+          "year": 2003,
+          "month": 1,
+          "day": null
+        },
+        "chapters": 1,
+        "volumes": null,
+        "averageScore": 48,
+        "siteUrl": "https://anilist.co/manga/52696"
+      },
+      {
+        "id": 114880,
+        "title": {
+          "romaji": "ONISW",
+          "english": null,
+          "native": "ONISW"
+        },
+        "description": "Spirits of those who've died a tragic death are unable to be led to the afterlife by the Black and White death gods. They wander aimlessly in the world of the living, unable to reincarnate. Two death gods go in search of the missing half, but will the person they find still be the person they were once familiar with?\n",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b114880-BlyvHqJ3hPEE.png",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b114880-BlyvHqJ3hPEE.png"
+        },
+        "genres": [
+          "Action",
+          "Horror",
+          "Supernatural"
+        ],
+        "status": "FINISHED",
+        "format": "ONE_SHOT",
+        "countryOfOrigin": "CN",
+        "startDate": {
+          "year": 2019,
+          "month": null,
+          "day": null
+        },
+        "chapters": 1,
+        "volumes": null,
+        "averageScore": null,
+        "siteUrl": "https://anilist.co/manga/114880"
+      },
+      {
+        "id": 117526,
+        "title": {
+          "romaji": "Jiguang",
+          "english": null,
+          "native": "极光"
+        },
+        "description": "Our love is as brilliant as the aurora borealis.\n",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b117526-H6F1xG7UHya5.jpg",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b117526-H6F1xG7UHya5.jpg"
+        },
+        "genres": [
+          "Romance",
+          "Slice of Life"
+        ],
+        "status": "FINISHED",
+        "format": "ONE_SHOT",
+        "countryOfOrigin": "CN",
+        "startDate": {
+          "year": 2020,
+          "month": 2,
+          "day": 19
+        },
+        "chapters": 1,
+        "volumes": null,
+        "averageScore": null,
+        "siteUrl": "https://anilist.co/manga/117526"
+      },
+      {
+        "id": 155576,
+        "title": {
+          "romaji": "Zhi Zhuizhu Mengxiang de Ni",
+          "english": null,
+          "native": "致追逐梦想的你"
+        },
+        "description": "‘The Other Family's Kid' and dreams buried deep in my heart.<br><br>\n\n(Source: Kuaikan, translated)",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx155576-hqneaREzdguW.png",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx155576-hqneaREzdguW.png"
+        },
+        "genres": [
+          "Romance",
+          "Slice of Life"
+        ],
+        "status": "FINISHED",
+        "format": "ONE_SHOT",
+        "countryOfOrigin": "CN",
+        "startDate": {
+          "year": 2021,
+          "month": null,
+          "day": null
+        },
+        "chapters": 1,
+        "volumes": null,
+        "averageScore": null,
+        "siteUrl": "https://anilist.co/manga/155576"
+      },
+      {
+        "id": 121605,
+        "title": {
+          "romaji": "Ming",
+          "english": null,
+          "native": "名"
+        },
+        "description": null,
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b121605-xnQNjuhmGLtt.png",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b121605-xnQNjuhmGLtt.png"
+        },
+        "genres": [
+          "Fantasy"
+        ],
+        "status": "FINISHED",
+        "format": "ONE_SHOT",
+        "countryOfOrigin": "CN",
+        "startDate": {
+          "year": 2020,
+          "month": 6,
+          "day": 22
+        },
+        "chapters": 1,
+        "volumes": null,
+        "averageScore": null,
+        "siteUrl": "https://anilist.co/manga/121605"
+      },
+      {
+        "id": 96033,
+        "title": {
+          "romaji": "Huaqing Zanshou",
+          "english": null,
+          "native": "華清残照"
+        },
+        "description": "A story about Yan Gui-fei, a beautiful woman from Chinese history.",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx96033-I8kmY0H0hVX9.png",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx96033-I8kmY0H0hVX9.png"
+        },
+        "genres": [
+          "Drama",
+          "Romance"
+        ],
+        "status": "FINISHED",
+        "format": "ONE_SHOT",
+        "countryOfOrigin": "CN",
+        "startDate": {
+          "year": 1995,
+          "month": 6,
+          "day": 15
+        },
+        "chapters": 1,
+        "volumes": null,
+        "averageScore": null,
+        "siteUrl": "https://anilist.co/manga/96033"
+      },
+      {
+        "id": 45245,
+        "title": {
+          "romaji": "Muyu He Benxiaozhu",
+          "english": "Muyu and Stupid Pig",
+          "native": "木鱼和笨小猪"
+        },
+        "description": "It's about a girl, Taobei, who has somebody writing on her book that she's a pig. This really angers her. Then, there's Muyu, the guy who's been friends with her since childhood...and he's angry with her. A really funny story of a silly and dense girl.\n",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/15245.jpg",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/15245.jpg"
+        },
+        "genres": [
+          "Comedy",
+          "Romance"
+        ],
+        "status": "FINISHED",
+        "format": "ONE_SHOT",
+        "countryOfOrigin": "CN",
+        "startDate": {
+          "year": 2008,
+          "month": 6,
+          "day": 1
+        },
+        "chapters": 1,
+        "volumes": null,
+        "averageScore": null,
+        "siteUrl": "https://anilist.co/manga/45245"
+      },
+      {
+        "id": 55309,
+        "title": {
+          "romaji": "Tie Jian Chunqiu Zhi Ba Yue Shiwu",
+          "english": null,
+          "native": "鐵劍春秋之八月十五"
+        },
+        "description": "",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/25309.jpg",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/25309.jpg"
+        },
+        "genres": [
+          "Drama",
+          "Romance"
+        ],
+        "status": "FINISHED",
+        "format": "ONE_SHOT",
+        "countryOfOrigin": "CN",
+        "startDate": {
+          "year": 2008,
+          "month": 8,
+          "day": 11
+        },
+        "chapters": 1,
+        "volumes": null,
+        "averageScore": null,
+        "siteUrl": "https://anilist.co/manga/55309"
+      },
+      {
+        "id": 188106,
+        "title": {
+          "romaji": "Wo de Fuqin",
+          "english": null,
+          "native": "我的父亲"
+        },
+        "description": "Sometimes people ask me, what kind of man was my father? This is his story.\n<BR><BR>\n(Source: Tencent, translated)",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b188106-gztUe4UwvWg4.png",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b188106-gztUe4UwvWg4.png"
+        },
+        "genres": [
+          "Comedy",
+          "Slice of Life"
+        ],
+        "status": "FINISHED",
+        "format": "ONE_SHOT",
+        "countryOfOrigin": "CN",
+        "startDate": {
+          "year": 2020,
+          "month": 12,
+          "day": 18
+        },
+        "chapters": 1,
+        "volumes": null,
+        "averageScore": null,
+        "siteUrl": "https://anilist.co/manga/188106"
+      },
+      {
+        "id": 184247,
+        "title": {
+          "romaji": "Yun Mo Jian Xin",
+          "english": "Blade of the Empyrean",
+          "native": "云墨剑心"
+        },
+        "description": "The Celestial Phoenix of Mount Taixuan and her first disciple Lin Zhaoyu went on a quest to stop Yan Shiluo, a leader of a fire cult, and his Rite of Holy Flames. Any form of corruption must be purged.\n<BR><BR>\n(Source: Honkai Impact 3rd)",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx184247-sTEWsyphcvvh.jpg",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx184247-sTEWsyphcvvh.jpg"
+        },
+        "genres": [
+          "Action",
+          "Drama",
+          "Fantasy",
+          "Sci-Fi"
+        ],
+        "status": "FINISHED",
+        "format": "ONE_SHOT",
+        "countryOfOrigin": "CN",
+        "startDate": {
+          "year": 2020,
+          "month": 4,
+          "day": 30
+        },
+        "chapters": 1,
+        "volumes": null,
+        "averageScore": null,
+        "siteUrl": "https://anilist.co/manga/184247"
+      },
+      {
+        "id": 41160,
+        "title": {
+          "romaji": "Gong Bao Ji Ding",
+          "english": null,
+          "native": "宫保鸡丁"
+        },
+        "description": "A simple, wordless oneshot about a man being hitted on by a woman in his dreams.",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/11160.jpg",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/11160.jpg"
+        },
+        "genres": [
+          "Fantasy"
+        ],
+        "status": "FINISHED",
+        "format": "ONE_SHOT",
+        "countryOfOrigin": "CN",
+        "startDate": {
+          "year": 2004,
+          "month": null,
+          "day": null
+        },
+        "chapters": 1,
+        "volumes": null,
+        "averageScore": null,
+        "siteUrl": "https://anilist.co/manga/41160"
+      },
+      {
+        "id": 134379,
+        "title": {
+          "romaji": "Heise Qingdaofu",
+          "english": null,
+          "native": "黑色清道夫"
+        },
+        "description": "The seeds born of twisted desire take root deep in the heart, feeding on emotions and expanding non-stop. When all of life is sucked away, the seed receives the key to the world and the black monster is born quietly. They are called \"evils\".\n<br><br>\nIn order to liberate the souls bound by \"evils\", a group of resolutely determined people, with the strength of the will from the world, become the light to illuminate the world at the cost of their own life.\n<br><br>\n(Source: Kuaikan, translated)",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx134379-UZdXJpJyhCWG.jpg",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx134379-UZdXJpJyhCWG.jpg"
+        },
+        "genres": [
+          "Action",
+          "Horror",
+          "Mystery",
+          "Psychological",
+          "Supernatural"
+        ],
+        "status": "FINISHED",
+        "format": "ONE_SHOT",
+        "countryOfOrigin": "CN",
+        "startDate": {
+          "year": 2020,
+          "month": 4,
+          "day": 20
+        },
+        "chapters": 1,
+        "volumes": null,
+        "averageScore": null,
+        "siteUrl": "https://anilist.co/manga/134379"
+      },
+      {
+        "id": 84415,
+        "title": {
+          "romaji": "Ruyi Lang Jun",
+          "english": null,
+          "native": "如意狼君"
+        },
+        "description": "If it weren't for the man who saved the little devil named Zhu Mingquan, would the big, bad wolf Hanyang be trapped in a human house like a dog?<br> \nWhat's more, he's forced to try to transform into a human every day so he can pair up with that kid? <br>\nCome on, he's still a guy~~~<br><br>\n\n(Source: Weixiang Culture, translated)",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx84415-mpROFGtkMpxB.jpg",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx84415-mpROFGtkMpxB.jpg"
+        },
+        "genres": [
+          "Fantasy",
+          "Romance"
+        ],
+        "status": "FINISHED",
+        "format": "ONE_SHOT",
+        "countryOfOrigin": "CN",
+        "startDate": {
+          "year": 2006,
+          "month": 9,
+          "day": 30
+        },
+        "chapters": 1,
+        "volumes": null,
+        "averageScore": null,
+        "siteUrl": "https://anilist.co/manga/84415"
+      },
+      {
+        "id": 135265,
+        "title": {
+          "romaji": "Zhulian Yu Shaonian A",
+          "english": null,
+          "native": "朱利安与少年A"
+        },
+        "description": "A story about two hamsters?!",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b135265-PKWMoKpgUsSf.jpg",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b135265-PKWMoKpgUsSf.jpg"
+        },
+        "genres": [
+          "Comedy",
+          "Romance"
+        ],
+        "status": "FINISHED",
+        "format": "ONE_SHOT",
+        "countryOfOrigin": "CN",
+        "startDate": {
+          "year": 2013,
+          "month": 4,
+          "day": null
+        },
+        "chapters": 1,
+        "volumes": null,
+        "averageScore": null,
+        "siteUrl": "https://anilist.co/manga/135265"
+      },
+      {
+        "id": 52861,
+        "title": {
+          "romaji": "Sewn Souls",
+          "english": null,
+          "native": null
+        },
+        "description": "This is a short poetic 6 page full color manhua about a pair of sewn souls.",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/22861.jpg",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/22861.jpg"
+        },
+        "genres": [
+          "Drama",
+          "Romance"
+        ],
+        "status": "FINISHED",
+        "format": "ONE_SHOT",
+        "countryOfOrigin": "CN",
+        "startDate": {
+          "year": 2010,
+          "month": null,
+          "day": null
+        },
+        "chapters": 1,
+        "volumes": null,
+        "averageScore": null,
+        "siteUrl": "https://anilist.co/manga/52861"
+      },
+      {
+        "id": 120548,
+        "title": {
+          "romaji": "Shu Zhong Zhanzheng",
+          "english": null,
+          "native": "书中战争"
+        },
+        "description": "A couple enters a bookstore, but it turns out to be more than just your run-of-the-mill bookstore.\n",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx120548-oeVV6NTYTK70.png",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx120548-oeVV6NTYTK70.png"
+        },
+        "genres": [
+          "Adventure",
+          "Fantasy",
+          "Horror",
+          "Psychological"
+        ],
+        "status": "FINISHED",
+        "format": "ONE_SHOT",
+        "countryOfOrigin": "CN",
+        "startDate": {
+          "year": 2017,
+          "month": 11,
+          "day": 15
+        },
+        "chapters": 1,
+        "volumes": null,
+        "averageScore": null,
+        "siteUrl": "https://anilist.co/manga/120548"
+      },
+      {
+        "id": 137591,
+        "title": {
+          "romaji": "Qianqiu De Shijie",
+          "english": null,
+          "native": "千秋的世界"
+        },
+        "description": "After the 16th play-through, Qianqiu finally realized that the world she was living in was just a game. However, she was not the heroine, but just the female support character, destined to always be the loser. Tired of being stuck in an endless loop, she decided to break free from the game's plot. However, in the process of doing so, the protagonist also started to act strangely?\n<br><br>\n(Source: Kuaikan, translated)\n<br><br>\n<i>Note: An entry in the 2021 Kuaikan Tiaoman Contest</i>\n",
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b137591-A2f6eziNgR4i.jpg",
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b137591-A2f6eziNgR4i.jpg"
+        },
+        "genres": [
+          "Fantasy",
+          "Romance"
+        ],
+        "status": "FINISHED",
+        "format": "ONE_SHOT",
+        "countryOfOrigin": "CN",
+        "startDate": {
+          "year": 2021,
+          "month": 7,
+          "day": 28
+        },
+        "chapters": 1,
+        "volumes": null,
+        "averageScore": null,
+        "siteUrl": "https://anilist.co/manga/137591"
       }
     ]
   }
