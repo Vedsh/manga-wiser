@@ -2988,6 +2988,72 @@
         });
     }
 
+     
+    /* =========================
+       MANGA WISER SEARCH
+    ========================== */
+
+    const searchForm = document.querySelector(".search-form");
+    const searchResults = document.querySelector("#search-results");
+    const searchPanelInput = document.querySelector("#site-search");
+
+    if (searchForm && searchResults && searchPanelInput) {
+
+        searchForm.addEventListener("submit", function (event) {
+            event.preventDefault();
+
+            const query = searchPanelInput.value.trim().toLowerCase();
+
+            searchResults.innerHTML = "";
+
+            if (!query) {
+                searchResults.textContent = "Please enter a title to search.";
+                return;
+            }
+
+            const cards = document.querySelectorAll(".release-card");
+            let matchCount = 0;
+
+            cards.forEach(function (card) {
+
+                const title = card.querySelector("h3");
+                const type = card.querySelector(".release-type");
+
+                if (!title) return;
+
+                const titleText = title.textContent.trim();
+                const typeText = type ? type.textContent.trim() : "";
+
+                if (
+                    titleText.toLowerCase().includes(query) ||
+                    typeText.toLowerCase().includes(query)
+                ) {
+                    const result = document.createElement("div");
+                    result.className = "search-result-item";
+
+                    const resultTitle = document.createElement("strong");
+                    resultTitle.textContent = titleText;
+
+                    const resultType = document.createElement("span");
+                    resultType.textContent = " — " + typeText;
+
+                    result.appendChild(resultTitle);
+                    result.appendChild(resultType);
+                    searchResults.appendChild(result);
+
+                    matchCount++;
+                }
+
+            });
+
+            if (matchCount === 0) {
+                searchResults.textContent = "No matching titles found.";
+            }
+
+        });
+
+    }
+
 </script>
 
 </body>
