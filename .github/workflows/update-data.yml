@@ -24,7 +24,7 @@ jobs:
       - name: Fetch AniList catalog
         run: python scripts/fetch_anilist.py
 
-      - name: Test MangaUpdates RSS feed
+      - name: Generate latest releases data
         run: python scripts/fetch_releases.py
 
       - name: Save updated catalog
