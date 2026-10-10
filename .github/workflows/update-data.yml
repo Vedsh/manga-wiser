@@ -24,6 +24,9 @@ jobs:
       - name: Fetch AniList catalog
         run: python scripts/fetch_anilist.py
 
+      - name: Test MangaUpdates RSS feed
+        run: python scripts/fetch_releases.py
+
       - name: Save updated catalog
         run: |
           git config user.name "github-actions[bot]"
